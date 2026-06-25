@@ -53,6 +53,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=huiyonghkw&show_icons=true&hide_border=true&title_color=e08a5f&icon_color=e08a5f&text_color=b6b2a8&bg_color=19191a"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=huiyonghkw&hide_border=true&background=19191a&stroke=e08a5f&ring=e08a5f&fire=e08a5f&currStreakNum=f4f2eb&currStreakLabel=e08a5f&sideNums=b6b2a8&sideLabels=8a877e&dates=8a877e"/>
 
 </div>
 
