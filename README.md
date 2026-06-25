@@ -39,6 +39,8 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-c15f3c?style=flat-square&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8a4a30?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-c15f3c?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-8a4a30?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-c15f3c?style=flat-square&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-8a4a30?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-c15f3c?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -51,9 +53,21 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=huiyonghkw&show_icons=true&hide_border=true&title_color=e08a5f&icon_color=e08a5f&text_color=b6b2a8&bg_color=19191a"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiyonghkw&layout=compact&hide_border=true&langs_count=8&title_color=e08a5f&text_color=b6b2a8&bg_color=19191a"/>
 
 </div>
+
+### 🧬 主力语言
+
+```text
+PHP          ██████████████░░░░░░░░░░  60%   后端主力 · Laravel
+Java         ███░░░░░░░░░░░░░░░░░░░░░░  14%   服务端
+Go           ██░░░░░░░░░░░░░░░░░░░░░░░  10%   云原生 · CLI
+Python       ██░░░░░░░░░░░░░░░░░░░░░░░   8%   AI · 数据 · 自动化
+JavaScript   █░░░░░░░░░░░░░░░░░░░░░░░░   5%   前端 · Vue
+Shell        █░░░░░░░░░░░░░░░░░░░░░░░░   3%   DevOps
+```
+
+> 按实际投入估算，非 GitHub 仓库字节统计（自动卡会被历史 PHP 仓库带偏）。
 
 ## 🌐 找我
 
