@@ -6,7 +6,7 @@
 
 ### The question isn't whether AI will replace you — it's how the people who use AI first will.
 
-`禾口王 → 程`　·　`会勇 → 会用`　·　**someone who genuinely uses AI well**
+`禾口王 → 程`　·　`会勇 → 会用`　·　**a programmer who genuinely knows how to use AI**
 
 <a href="https://hekouwang.pages.dev"><img src="https://img.shields.io/badge/Homepage-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Chengdu-6d28d9?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -18,13 +18,13 @@
 
 ## 🧩 About me
 
-I make complicated AI make sense, and help you turn it into real value. Three things, that's it:
+I make complicated AI make sense, and help you turn it into real productivity. Three things, that's it:
 
-- 💡 **Explain it clearly** — break dense AI down into plain talk. No jargon walls, no mysticism.
-- 🔍 **Show the value** — I don't just repeat the news. I walk you through how it actually works and where the money is.
-- 🎁 **Hand it over** — the methods and Skills I've built up go straight into your hands, so your AI gets the job done too.
+- 💡 **Explain it clearly** — dense AI broken down into plain talk, so you see how it works and where the value is.
+- 🎁 **Hand it over** — methods and Skills I've already run end-to-end, delivered straight into your hands.
+- 🤝 **Lead it like a team** — turn AI into a teammate: one person, a whole team's output.
 
-My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"someone who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 238★), now working full-time on turning AI into real productivity and running my content studio *AI Notes by huiyonghkw*.
+My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"a programmer who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 238★), turning AI into real productivity and running my content studio *AI Notes by huiyonghkw* — every workflow I run end-to-end myself before I show it to you.
 
 ## 🧰 Open-source Skills (drop-in for Claude Code)
 
@@ -34,6 +34,11 @@ My handle is a Chinese pun. The last three characters 「禾口王」 stack into
 | [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill linter: rates SKILL.md triggering / length / progressive disclosure / safety |
 | [**hekouwang-yandu-deck-skill**](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) | Yandu Deck: article → one-screen-per-scene slide deck, self-hosted fonts, ships to Cloudflare Pages |
 | [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | Public stock-data reader: pulls data via akshare → neutral post-hoc recap (financial-compliance guardrails built in) |
+
+### 🚕 Client work · custom-transit SaaS (Chengdu Higgs / CC)
+
+| Skill | What it does |
+|---|---|
 | [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
 | [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
 
