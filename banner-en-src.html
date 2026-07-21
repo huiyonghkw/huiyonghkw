@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-display:block;font-family:'Mozilla Headline VF';font-stretch:75% 125%;font-style:normal;font-weight:100 900;
+  src:url('fonts/MozillaHeadline-Variable.woff2') format('woff2-variations');}
+@font-face{font-display:block;font-family:'Mozilla Text VF';font-style:normal;font-weight:100 900;
+  src:url('fonts/MozillaText-Variable.woff2') format('woff2-variations');}
+
+:root{
+  --bg:#ffffff;
+  --ink:#1c0b3e;
+  --accent:#7c4dff;
+  --muted:#8b7fa6;
+  --hair:#e9e4f4;
+  --ghost:#f1ebfb;
+  --head:'Mozilla Headline VF','PingFang SC','Noto Sans SC',sans-serif;
+  --text:'Mozilla Text VF','PingFang SC','Noto Sans SC',sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:var(--bg)}
+.stage{
+  position:relative;width:1920px;height:1080px;background:var(--bg);overflow:hidden;
+  background-image:
+    radial-gradient(760px 460px at 6% -8%, #f3ecff 0%, transparent 60%),
+    radial-gradient(820px 520px at 100% -6%, #efe8ff 0%, transparent 58%),
+    radial-gradient(680px 520px at 104% 96%, #fff1e6 0%, transparent 60%);
+  padding:74px 92px;
+}
+
+/* giant watermark 程 */
+.ghost{
+  position:absolute;right:44px;bottom:-96px;
+  font-family:var(--head);font-weight:800;font-size:760px;line-height:.8;
+  color:var(--ghost);letter-spacing:-.02em;user-select:none;z-index:0;
+}
+
+.wrap{position:relative;z-index:1;height:100%;display:flex;flex-direction:column}
+
+/* masthead */
+.mast{display:flex;align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:16px;font-family:var(--head);font-weight:700;font-size:29px;color:var(--ink)}
+.dot{width:13px;height:13px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 5px rgba(124,77,255,.15)}
+.mast .tag{font-family:var(--text);font-weight:600;font-size:23px;letter-spacing:.42em;color:var(--muted)}
+.hair{height:1px;background:var(--hair);margin:26px 0 0}
+
+/* eyebrow */
+.eyebrow{margin-top:64px;font-family:var(--text);font-weight:700;font-size:22px;letter-spacing:.36em;text-transform:uppercase;color:var(--accent)}
+
+/* headline */
+.head{margin-top:30px;font-family:var(--head);font-weight:800;font-size:82px;line-height:1.16;letter-spacing:-.015em;color:var(--ink)}
+.head .hl{color:var(--accent)}
+
+/* name equation */
+.eq{margin-top:58px;font-family:var(--head);font-weight:800;font-size:40px;letter-spacing:-.01em;color:var(--ink)}
+.eq .hl{color:var(--accent)}
+.note{margin-top:18px;font-family:var(--text);font-weight:500;font-size:25px;line-height:1.5;color:var(--muted)}
+.note b{color:#5b4a7a;font-weight:700}
+
+/* footer pinned bottom */
+.foot{margin-top:auto;font-family:var(--head);font-weight:700;font-size:27px;color:var(--ink);display:flex;align-items:center;gap:16px}
+.foot .h{color:var(--accent);font-family:var(--text);font-weight:600}
+.foot .sep{color:var(--hair)}
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="ghost">程</div>
+  <div class="wrap">
+    <div class="mast">
+      <div class="brand"><span class="dot"></span>huiyonghkw · AI&nbsp;Notes</div>
+      <div class="tag">AI&nbsp;&nbsp;NOTES</div>
+    </div>
+    <div class="hair"></div>
+
+    <div class="eyebrow">Who I am · What I do</div>
+
+    <div class="head">
+      The question isn't whether AI<br>
+      replaces you — it's how <span class="hl">the people<br>
+      who use AI first</span> replace you.
+    </div>
+
+    <div class="eq">huiyonghkw = <span class="hl">someone who genuinely uses AI well</span></div>
+    <div class="note">The handle is a Chinese pun: <b>禾 + 口 + 王</b> stack into <b>程</b> (chéng, “code / process”); <b>会勇</b> sounds like <b>会用</b> — “knows how to use.”</div>
+
+    <div class="foot">
+      huiyonghkw · AI&nbsp;Notes <span class="sep">·</span> <span class="h">@huiyonghkw</span>
+    </div>
+  </div>
+</div>
+</body>
+</html>
