@@ -48,7 +48,7 @@ Nine Agent Skills, all of them running in my own daily work. 🔒 marks a privat
 | **hekouwang-content-factory-skill** | The content studio: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
 | **hekouwang-iterm2-skill** | macOS terminal as code: iTerm2 + oh-my-zsh + Starship + the modern CLI set, five themes generated from one palette, restorable on a fresh Mac in one go |
 
-### 🚕 🔒 Client work · custom-transit SaaS (Chengdu Higgs / CC)
+### 🚕 🔒 Client work · custom-transit SaaS (Higgses.inc / CC)
 
 | Skill | What it does |
 |---|---|
