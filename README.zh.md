@@ -26,21 +26,34 @@
 
 「禾口王」拼起来是个「程」字，「会勇」谐音「会用」——**会勇禾口王 = 真会用 AI 的程序员**。十余年后端老兵（`gitlab-ci-docker` 302★ · `lnmp-docker` 238★），正把 AI 用成生产力，经营「会勇禾口王的AI笔记」内容工厂：每套工作流我先跑通，再演给你看。
 
-## 🧰 开源 Skills（Claude Code 拿来即用）
+## 🧰 我做的 Skills（Claude Code 拿来即用）
+
+一共 9 个 Agent Skill，全部跑在我自己每天的活里。🔒 = 私有仓，别人点开是 404。
+
+### 🌐 开源
 
 | Skill | 干什么 |
 |---|---|
 | [**hekouwang-claude-md-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) | CLAUDE.md 体检器：把它当运行时配置打分(0–100) + 修复建议 |
 | [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill 体检器：评 SKILL.md 触发/篇幅/渐进披露/安全 |
+| [**hekouwang-env-doctor-skill**](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) | 开发环境体检器：不问「哪个目录大」，问「这个工具你还在用吗」——揪出换掉却没卸干净的旧工具，配交互式清理选择器 |
 | [**hekouwang-yandu-deck-skill**](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) | 演读 DECK：文章→一屏一镜翻页演示，自托管字体，发 Cloudflare Pages |
 | [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | 个股公开数据速读：akshare 拉数→中立事后复盘（内置金融合规护栏） |
+| [**hekouwang-typora-theme-skill**](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | Typora 主题工程：CSS 由 tokens 生成而非手写，配色从截图采样而非靠猜，带字体真上屏探针 |
 
-### 🚕 客户项目 · 定制客运 SaaS（成都希格斯 / CC招车）
+### 🔒 私有 · 自用工具链
 
 | Skill | 干什么 |
 |---|---|
-| [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
-| [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
+| **hekouwang-content-factory-skill** | 内容工厂：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
+| **hekouwang-iterm2-skill** | 终端即代码：iTerm2 + oh-my-zsh + Starship + 现代 CLI 全家桶，五套主题同一份调色板生成，新 Mac 一键还原 |
+
+### 🚕 🔒 客户项目 · 定制客运 SaaS（成都希格斯 / CC招车）
+
+| Skill | 干什么 |
+|---|---|
+| **hekouwang-cc-prod-skill** | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
+| **cc-passenger-prototype-design-skill** | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
 
 ## 🏷 工具箱
 
@@ -63,19 +76,6 @@
 <img height="165" src="https://streak-stats.demolab.com/?user=huiyonghkw&hide_border=true&background=170a30&stroke=a855f7&ring=a855f7&fire=ff8a3d&currStreakNum=f5f0ff&currStreakLabel=a855f7&sideNums=b3a5cf&sideLabels=786a94&dates=786a94"/>
 
 </div>
-
-### 🧬 主力语言
-
-```text
-PHP          ██████████████░░░░░░░░░░  60%   后端主力 · Laravel
-Java         ███░░░░░░░░░░░░░░░░░░░░░░  14%   服务端
-Go           ██░░░░░░░░░░░░░░░░░░░░░░░  10%   云原生 · CLI
-Python       ██░░░░░░░░░░░░░░░░░░░░░░░   8%   AI · 数据 · 自动化
-JavaScript   █░░░░░░░░░░░░░░░░░░░░░░░░   5%   前端 · Vue
-Shell        █░░░░░░░░░░░░░░░░░░░░░░░░   3%   DevOps
-```
-
-> 按实际投入估算，非 GitHub 仓库字节统计（自动卡会被历史 PHP 仓库带偏）。
 
 ## 🌐 找我
 

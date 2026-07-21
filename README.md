@@ -26,21 +26,34 @@ I make complicated AI make sense, and help you turn it into real productivity. T
 
 My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"a programmer who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 238★), turning AI into real productivity and running my content studio *AI Notes by huiyonghkw* — every workflow I run end-to-end myself before I show it to you.
 
-## 🧰 Open-source Skills (drop-in for Claude Code)
+## 🧰 Skills I built (drop-in for Claude Code)
+
+Nine Agent Skills, all of them running in my own daily work. 🔒 marks a private repo — the link 404s unless you have access.
+
+### 🌐 Open source
 
 | Skill | What it does |
 |---|---|
 | [**hekouwang-claude-md-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) | CLAUDE.md linter: scores it as runtime config (0–100) + fix suggestions |
 | [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill linter: rates SKILL.md triggering / length / progressive disclosure / safety |
+| [**hekouwang-env-doctor-skill**](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) | Dev-env doctor: asks "do you still use this tool?", not "which folder is big" — finds the old tools you swapped out but never uninstalled, with an interactive cleanup picker |
 | [**hekouwang-yandu-deck-skill**](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) | Yandu Deck: article → one-screen-per-scene slide deck, self-hosted fonts, ships to Cloudflare Pages |
 | [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | Public stock-data reader: pulls data via akshare → neutral post-hoc recap (financial-compliance guardrails built in) |
+| [**hekouwang-typora-theme-skill**](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | Typora theme engineering: CSS generated from tokens instead of hand-written, colors sampled from reference screenshots instead of guessed, font-actually-rendered probe |
 
-### 🚕 Client work · custom-transit SaaS (Chengdu Higgs / CC)
+### 🔒 Private · my own toolchain
 
 | Skill | What it does |
 |---|---|
-| [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
-| [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
+| **hekouwang-content-factory-skill** | The content studio: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
+| **hekouwang-iterm2-skill** | macOS terminal as code: iTerm2 + oh-my-zsh + Starship + the modern CLI set, five themes generated from one palette, restorable on a fresh Mac in one go |
+
+### 🚕 🔒 Client work · custom-transit SaaS (Chengdu Higgs / CC)
+
+| Skill | What it does |
+|---|---|
+| **hekouwang-cc-prod-skill** | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
+| **cc-passenger-prototype-design-skill** | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
 
 ## 🏷 Toolbox
 
@@ -63,19 +76,6 @@ My handle is a Chinese pun. The last three characters 「禾口王」 stack into
 <img height="165" src="https://streak-stats.demolab.com/?user=huiyonghkw&hide_border=true&background=170a30&stroke=a855f7&ring=a855f7&fire=ff8a3d&currStreakNum=f5f0ff&currStreakLabel=a855f7&sideNums=b3a5cf&sideLabels=786a94&dates=786a94"/>
 
 </div>
-
-### 🧬 Languages I work in
-
-```text
-PHP          ██████████████░░░░░░░░░░  60%   main backend · Laravel
-Java         ███░░░░░░░░░░░░░░░░░░░░░░  14%   server-side
-Go           ██░░░░░░░░░░░░░░░░░░░░░░░  10%   cloud-native · CLI
-Python       ██░░░░░░░░░░░░░░░░░░░░░░░   8%   AI · data · automation
-JavaScript   █░░░░░░░░░░░░░░░░░░░░░░░░   5%   frontend · Vue
-Shell        █░░░░░░░░░░░░░░░░░░░░░░░░   3%   DevOps
-```
-
-> Estimated by actual time spent, not GitHub byte counts (the auto-widget gets skewed by old PHP repos).
 
 ## 🌐 Find me
 
