@@ -26,6 +26,16 @@ I make complicated AI make sense, and help you turn it into real productivity. T
 
 My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"a programmer who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 238★), turning AI into real productivity and running my content studio *AI Notes by huiyonghkw* — every workflow I run end-to-end myself before I show it to you.
 
+## ⭐ Featured — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
+
+<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://raw.githubusercontent.com/huiyonghkw/hekouwang-terminal-kit/main/docs/images/01-cover.en.png" width="100%"/></a>
+
+**Give your macOS terminal one more round of setup for the AI era.** One `PALETTES` source generates the colors for **iTerm2 · Ghostty · Warp · the built-in Terminal** plus **bat / fzf / eza / git diff / tmux / VS Code** — reskin four terminals and the whole tool chain in one command. Safe to install *and* uninstall: `--dry-run` previews every change, `migrate.sh` adopts your `.zshrc` instead of overwriting it, `uninstall.sh` restores from backup. English by default; `--lang zh` for Chinese.
+
+The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. The paid build makes that one palette *walk out of* iTerm2.
+
+<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-open%20source%20·%20MIT-06a88c?style=flat-square&logo=github"/></a> <img src="https://img.shields.io/badge/4%20terminals-iTerm2%20·%20Ghostty%20·%20Warp%20·%20Terminal.app-6a45e0?style=flat-square"/>
+
 ## 🧰 Skills I built (drop-in for Claude Code)
 
 Nine Agent Skills, all of them running in my own daily work. 🔒 marks a private repo — the link 404s unless you have access.
@@ -46,7 +56,7 @@ Nine Agent Skills, all of them running in my own daily work. 🔒 marks a privat
 | Skill | What it does |
 |---|---|
 | **hekouwang-content-factory-skill** | The content studio: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
-| **hekouwang-iterm2-skill** | macOS terminal as code: iTerm2 + oh-my-zsh + Starship + the modern CLI set, five themes generated from one palette, restorable on a fresh Mac in one go |
+| **hekouwang-iterm2-skill** | The private master behind the public **hekouwang-terminal-kit** above — seven themes from one palette; `release.sh` exports the free (MIT, public) and paid builds from here |
 
 ### 🚕 🔒 Client work · custom-transit SaaS (Higgses.inc / CC)
 
