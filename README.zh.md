@@ -26,6 +26,16 @@
 
 「禾口王」拼起来是个「程」字，「会勇」谐音「会用」——**会勇禾口王 = 真会用 AI 的程序员**。十余年后端老兵（`gitlab-ci-docker` 302★ · `lnmp-docker` 238★），正把 AI 用成生产力，经营「会勇禾口王的AI笔记」内容工厂：每套工作流我先跑通，再演给你看。
 
+## ⭐ 精选 — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
+
+<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://raw.githubusercontent.com/huiyonghkw/hekouwang-terminal-kit/main/docs/images/01-cover.png" width="100%"/></a>
+
+**给 AI 时代重配的 macOS 终端。** 一份色板同时生成 **iTerm2 · Ghostty · Warp · 自带终端** 与 **bat / fzf / eza / git diff / tmux / VS Code** 的配色——换肤一条命令，四个终端 + 整条工具链一起变。**敢装也敢卸**：`--dry-run` 先预演要改什么，`migrate.sh` 接管你的 `.zshrc` 而不是覆盖，`uninstall.sh` 从备份还原。默认英文，`--lang zh` 切中文。
+
+开源版（MIT）就是一台配好的 iTerm2，完整可用、不是演示版；付费版让这份色板**走出** iTerm2。
+
+<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-开源%20·%20MIT-06a88c?style=flat-square&logo=github"/></a> <img src="https://img.shields.io/badge/4%20终端-iTerm2%20·%20Ghostty%20·%20Warp%20·%20Terminal.app-6a45e0?style=flat-square"/>
+
 ## 🧰 我做的 Skills（Claude Code 拿来即用）
 
 一共 9 个 Agent Skill，全部跑在我自己每天的活里。🔒 = 私有仓，别人点开是 404。
@@ -46,7 +56,7 @@
 | Skill | 干什么 |
 |---|---|
 | **hekouwang-content-factory-skill** | 内容工厂：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
-| **hekouwang-iterm2-skill** | 终端即代码：iTerm2 + oh-my-zsh + Starship + 现代 CLI 全家桶，五套主题同一份调色板生成，新 Mac 一键还原 |
+| **hekouwang-iterm2-skill** | 上面那个公开版 **hekouwang-terminal-kit** 的私有母版——七套主题同一份色板；`release.sh` 从这里导出免费（MIT、公开）+ 付费两档 |
 
 ### 🚕 🔒 客户项目 · 定制客运 SaaS（成都希格斯 / CC招车）
 
