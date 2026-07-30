@@ -24,7 +24,7 @@
 - 🎁 **给得着** —— 我先跑通的方法和 SKILL，直接交到你手上
 - 🤝 **带得动** —— 把 AI 用成队友，一个人干出一支团队
 
-「禾口王」拼起来是个「程」字，「会勇」谐音「会用」——**会勇禾口王 = 真会用 AI 的程序员**。十余年后端老兵（`gitlab-ci-docker` 302★ · `lnmp-docker` 238★），正把 AI 用成生产力，经营「会勇禾口王的AI笔记」内容工厂：每套工作流我先跑通，再演给你看。
+「禾口王」拼起来是个「程」字，「会勇」谐音「会用」——**会勇禾口王 = 真会用 AI 的程序员**。十余年后端老兵（`gitlab-ci-docker` 302★ · `lnmp-docker` 237★），正把 AI 用成生产力，经营「会勇禾口王的AI笔记」内容工厂：每套工作流我先跑通，再演给你看。
 
 ## ⭐ 精选 — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
 
@@ -36,13 +36,13 @@
 
 <a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-开源%20·%20MIT-06a88c?style=flat-square&logo=github"/></a> <img src="https://img.shields.io/badge/4%20终端-iTerm2%20·%20Ghostty%20·%20Warp%20·%20Terminal.app-6a45e0?style=flat-square"/>
 
-## 🧰 我做的 Skills（Claude Code 拿来即用）
+## 🗂 仓库一览
 
-一共 9 个 Agent Skill，全部跑在我自己每天的活里。🔒 = 私有仓，别人点开是 404。
+🔒 = 私有仓（未授权点开是 404）。全部跑在我自己每天的活里，或客户交付现场。
 
-### 🌐 开源
+### 🌐 开源 · Agent Skills
 
-| Skill | 干什么 |
+| 仓库 | 干什么 |
 |---|---|
 | [**hekouwang-claude-md-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) | CLAUDE.md 体检器：把它当运行时配置打分(0–100) + 修复建议 |
 | [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill 体检器：评 SKILL.md 触发/篇幅/渐进披露/安全 |
@@ -51,19 +51,43 @@
 | [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | 个股公开数据速读：akshare 拉数→中立事后复盘（内置金融合规护栏） |
 | [**hekouwang-typora-theme-skill**](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | Typora 主题工程：CSS 由 tokens 生成而非手写，配色从截图采样而非靠猜，带字体真上屏探针 |
 
+### 📦 开源 · 主题与教程
+
+| 仓库 | 干什么 |
+|---|---|
+| [**hekouwang-terminal-kit**](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 上面精选：AI 时代 macOS 终端套件（MIT） |
+| [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | 复刻 Claude 桌面端阅读体验的 Typora 主题（tokens 生成 CSS） |
+| [**laravel-to-fastapi**](https://github.com/huiyonghkw/laravel-to-fastapi) | Laravel ↔ FastAPI 对照学：肌肉记忆平移上手，HTML 长文 + 可运行代码（GitHub Pages） |
+| [**theme.typora.io**](https://github.com/huiyonghkw/theme.typora.io) | Typora 主题站点 |
+
 ### 🔒 私有 · 自用工具链
 
-| Skill | 干什么 |
+| 仓库 | 干什么 |
 |---|---|
-| **hekouwang-content-factory-skill** | 内容工厂：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
-| **hekouwang-iterm2-skill** | 上面那个公开版 **hekouwang-terminal-kit** 的私有母版——七套主题同一份色板；`release.sh` 从这里导出免费（MIT、公开）+ 付费两档 |
+| [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | 内容工厂 Skill：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
+| [**hekouwang-factory**](https://github.com/huiyonghkw/hekouwang-factory) | 内容工厂母版仓：选题配方库（公众号/小红书/头条/短视频），只追踪文本配方 |
+| [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | 小红书贴图视觉主题库（M1 材质纸系） |
+| [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | 三平台（小红书/头条/公众号）渠道数据分析：SQLite 仓 + Observable 看板 |
+| [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | 公开版 terminal-kit 的私有母版——一键还原整套 macOS 终端环境 |
+| [**hekouwang-terminal-kit-pro**](https://github.com/huiyonghkw/hekouwang-terminal-kit-pro) | 付费完整版：4 套品牌主题 + 一份色板同步四终端与整条工具链 |
 
-### 🚕 🔒 客户项目 · 定制客运 SaaS（成都希格斯 / CC招车）
+### 🚕 🔒 客户项目 · 定制客运 / 网约车
 
-| Skill | 干什么 |
+| 仓库 | 干什么 |
 |---|---|
-| **hekouwang-cc-prod-skill** | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
-| **cc-passenger-prototype-design-skill** | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
+| [**cczhaoche**](https://github.com/huiyonghkw/cczhaoche) | CC招车（成都希格斯）· 定制客运 SaaS 业务仓 |
+| [**cczhaoche-factory**](https://github.com/huiyonghkw/cczhaoche-factory) | CC招车文档/知识母版：9 微服务 × 3 代 PHP 运行时 · 容器编排 · 协作约定 |
+| [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
+| [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
+| [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | 交通部部级网约车上报 MCP（CaaS）· 方案与实现 |
+
+### 🔒 历史项目
+
+| 仓库 | 干什么 |
+|---|---|
+| [**zhanye**](https://github.com/huiyonghkw/zhanye) / [**zhanye-h5**](https://github.com/huiyonghkw/zhanye-h5) / [**zhanye-console**](https://github.com/huiyonghkw/zhanye-console) | 有信展业 · 客户端 / H5 / 管理后台 |
+| [**api.chehubao.com**](https://github.com/huiyonghkw/api.chehubao.com) | 车护宝 API |
+| [**mall**](https://github.com/huiyonghkw/mall) · [**game**](https://github.com/huiyonghkw/game) | 早期商城 / 游戏项目 |
 
 ## 🏷 工具箱
 

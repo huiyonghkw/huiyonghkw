@@ -24,7 +24,7 @@ I make complicated AI make sense, and help you turn it into real productivity. T
 - 🎁 **Hand it over** — methods and Skills I've already run end-to-end, delivered straight into your hands.
 - 🤝 **Lead it like a team** — turn AI into a teammate: one person, a whole team's output.
 
-My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"a programmer who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 238★), turning AI into real productivity and running my content studio *AI Notes by huiyonghkw* — every workflow I run end-to-end myself before I show it to you.
+My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"a programmer who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 237★), turning AI into real productivity and running my content studio *AI Notes by huiyonghkw* — every workflow I run end-to-end myself before I show it to you.
 
 ## ⭐ Featured — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
 
@@ -36,13 +36,13 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 
 <a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-open%20source%20·%20MIT-06a88c?style=flat-square&logo=github"/></a> <img src="https://img.shields.io/badge/4%20terminals-iTerm2%20·%20Ghostty%20·%20Warp%20·%20Terminal.app-6a45e0?style=flat-square"/>
 
-## 🧰 Skills I built (drop-in for Claude Code)
+## 🗂 Repositories
 
-Nine Agent Skills, all of them running in my own daily work. 🔒 marks a private repo — the link 404s unless you have access.
+🔒 = private (404 unless you have access). Everything here runs in my daily work or on a client delivery.
 
-### 🌐 Open source
+### 🌐 Open source · Agent Skills
 
-| Skill | What it does |
+| Repo | What it does |
 |---|---|
 | [**hekouwang-claude-md-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) | CLAUDE.md linter: scores it as runtime config (0–100) + fix suggestions |
 | [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill linter: rates SKILL.md triggering / length / progressive disclosure / safety |
@@ -51,19 +51,43 @@ Nine Agent Skills, all of them running in my own daily work. 🔒 marks a privat
 | [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | Public stock-data reader: pulls data via akshare → neutral post-hoc recap (financial-compliance guardrails built in) |
 | [**hekouwang-typora-theme-skill**](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | Typora theme engineering: CSS generated from tokens instead of hand-written, colors sampled from reference screenshots instead of guessed, font-actually-rendered probe |
 
+### 📦 Open source · themes & tutorials
+
+| Repo | What it does |
+|---|---|
+| [**hekouwang-terminal-kit**](https://github.com/huiyonghkw/hekouwang-terminal-kit) | Featured above: macOS terminal kit for the AI era (MIT) |
+| [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | Typora theme that recreates Claude desktop's reading experience (CSS from tokens) |
+| [**laravel-to-fastapi**](https://github.com/huiyonghkw/laravel-to-fastapi) | Laravel ↔ FastAPI side-by-side: transfer muscle memory, long-form HTML + runnable code (GitHub Pages) |
+| [**theme.typora.io**](https://github.com/huiyonghkw/theme.typora.io) | Typora themes website |
+
 ### 🔒 Private · my own toolchain
 
-| Skill | What it does |
+| Repo | What it does |
 |---|---|
-| **hekouwang-content-factory-skill** | The content studio: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
-| **hekouwang-iterm2-skill** | The private master behind the public **hekouwang-terminal-kit** above — seven themes from one palette; `release.sh` exports the free (MIT, public) and paid builds from here |
+| [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | Content studio Skill: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
+| [**hekouwang-factory**](https://github.com/huiyonghkw/hekouwang-factory) | Content-factory master repo: topic recipes (WeChat / Xiaohongshu / Toutiao / short video); text recipes only |
+| [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | Xiaohongshu card visual theme library (M1 paper-material system) |
+| [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | Three-platform (Xiaohongshu / Toutiao / WeChat) channel analytics: SQLite warehouse + Observable dashboard |
+| [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | Private master behind the public **hekouwang-terminal-kit** — one-command restore of the full macOS terminal stack |
+| [**hekouwang-terminal-kit-pro**](https://github.com/huiyonghkw/hekouwang-terminal-kit-pro) | Paid complete build: 4 brand themes + one palette syncing four terminals and the whole tool chain |
 
-### 🚕 🔒 Client work · custom-transit SaaS (Higgses.inc / CC)
+### 🚕 🔒 Client work · custom transit / ride-hailing
 
-| Skill | What it does |
+| Repo | What it does |
 |---|---|
-| **hekouwang-cc-prod-skill** | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
-| **cc-passenger-prototype-design-skill** | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
+| [**cczhaoche**](https://github.com/huiyonghkw/cczhaoche) | CC招车 (Higgses.inc, Chengdu) · custom-transit SaaS |
+| [**cczhaoche-factory**](https://github.com/huiyonghkw/cczhaoche-factory) | CC招车 docs/knowledge master: 9 microservices × 3 PHP runtimes · container orchestration · collab conventions |
+| [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
+| [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
+| [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | Ministry-level ride-hailing reporting MCP (CaaS) · design & implementation |
+
+### 🔒 Legacy
+
+| Repo | What it does |
+|---|---|
+| [**zhanye**](https://github.com/huiyonghkw/zhanye) / [**zhanye-h5**](https://github.com/huiyonghkw/zhanye-h5) / [**zhanye-console**](https://github.com/huiyonghkw/zhanye-console) | 有信展业 · client / H5 / admin console |
+| [**api.chehubao.com**](https://github.com/huiyonghkw/api.chehubao.com) | Chehubao API |
+| [**mall**](https://github.com/huiyonghkw/mall) · [**game**](https://github.com/huiyonghkw/game) | Early mall / game projects |
 
 ## 🏷 Toolbox
 
