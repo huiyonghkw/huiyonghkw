@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="banner.zh.png" alt="会勇禾口王的AI笔记 · 不聊 AI 会不会取代你，只聊先用 AI 的人怎么取代你" width="100%"/>
-
 ### 不聊 AI 会不会取代你，只聊先用 AI 的人怎么取代你。
 
 `禾口王 → 程`　·　`会勇 → 会用`　·　**真会用 AI 的程序员**

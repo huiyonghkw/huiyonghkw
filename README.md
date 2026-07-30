@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="banner.png" alt="huiyonghkw · AI Notes — The question isn't whether AI replaces you, it's how the people who use AI first replace you" width="100%"/>
-
 ### The question isn't whether AI will replace you — it's how the people who use AI first will.
 
 `禾口王 → 程`　·　`会勇 → 会用`　·　**a programmer who genuinely knows how to use AI**
