@@ -55,7 +55,7 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 |---|---|
 | [**hekouwang-terminal-kit**](https://github.com/huiyonghkw/hekouwang-terminal-kit) | Featured above: macOS terminal kit for the AI era (MIT) |
 | [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | Typora theme that recreates Claude desktop's reading experience (CSS from tokens) |
-| [**laravel-to-fastapi**](https://github.com/huiyonghkw/laravel-to-fastapi) | Laravel ↔ FastAPI side-by-side: transfer muscle memory, long-form HTML + runnable code (GitHub Pages) |
+| [**hekouwang-laravel-to-fastapi**](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi) | Laravel ↔ FastAPI side-by-side: transfer muscle memory, long-form HTML + runnable code (GitHub Pages) |
 | [**theme.typora.io**](https://github.com/huiyonghkw/theme.typora.io) | Typora themes website |
 
 ### 🔒 Private · my own toolchain
