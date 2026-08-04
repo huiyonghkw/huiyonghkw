@@ -63,8 +63,8 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 | Repo | What it does |
 |---|---|
 | [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | Content studio Skill: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
-| [**hekouwang-harness**](https://github.com/huiyonghkw/hekouwang-harness) | Personal AI harness master (formerly the content-factory workspace): recipes stay mostly local; remote keeps harness + text recipes |
-| [**hekouwang-factory-memory**](https://github.com/huiyonghkw/hekouwang-factory-memory) | Content-factory cross-session memory: pitfalls / contracts / preferences, indexed by MEMORY.md |
+| [**hekouwang-content-harness**](https://github.com/huiyonghkw/hekouwang-content-harness) | Personal AI harness master (formerly the content-factory workspace): recipes stay mostly local; remote keeps harness + text recipes |
+| [**hekouwang-content-memory**](https://github.com/huiyonghkw/hekouwang-content-memory) | Content-factory cross-session memory: pitfalls / contracts / preferences, indexed by MEMORY.md |
 | [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | Xiaohongshu card visual theme library (M1 paper-material system) |
 | [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | Three-platform (Xiaohongshu / Toutiao / WeChat) channel analytics: SQLite warehouse + Observable dashboard |
 | [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | Private master behind the public **hekouwang-terminal-kit** — one-command restore of the full macOS terminal stack |
