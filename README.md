@@ -75,7 +75,7 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 
 | Repo | What it does |
 |---|---|
-| [**hekouwang-memory**](https://github.com/huiyonghkw/hekouwang-memory) | CC招车 cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
+| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | CC招车 cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
 | [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
 | [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
 | [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | Ministry-level ride-hailing reporting MCP (CaaS) · design & implementation |

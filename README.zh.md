@@ -75,7 +75,7 @@
 
 | 仓库 | 干什么 |
 |---|---|
-| [**hekouwang-memory**](https://github.com/huiyonghkw/hekouwang-memory) | CC招车跨会话记忆库：踩坑 / 跨服务契约 / 偏好逐条沉淀，一条一文件，MEMORY.md 为索引 |
+| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | CC招车跨会话记忆库：踩坑 / 跨服务契约 / 偏好逐条沉淀，一条一文件，MEMORY.md 为索引 |
 | [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
 | [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
 | [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | 交通部部级网约车上报 MCP（CaaS）· 方案与实现 |
