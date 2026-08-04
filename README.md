@@ -47,14 +47,13 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 | [**hekouwang-env-doctor-skill**](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) | Dev-env doctor: asks "do you still use this tool?", not "which folder is big" — finds the old tools you swapped out but never uninstalled, with an interactive cleanup picker |
 | [**hekouwang-yandu-deck-skill**](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) | Yandu Deck: article → one-screen-per-scene slide deck, self-hosted fonts, ships to Cloudflare Pages |
 | [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | Public stock-data reader: pulls data via akshare → neutral post-hoc recap (financial-compliance guardrails built in) |
-| [**hekouwang-typora-theme-skill**](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | Typora theme engineering: CSS generated from tokens instead of hand-written, colors sampled from reference screenshots instead of guessed, font-actually-rendered probe |
 
 ### 📦 Open source · themes & tutorials
 
 | Repo | What it does |
 |---|---|
 | [**hekouwang-terminal-kit**](https://github.com/huiyonghkw/hekouwang-terminal-kit) | Featured above: macOS terminal kit for the AI era (MIT) |
-| [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | Typora theme that recreates Claude desktop's reading experience (CSS from tokens) |
+| [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | Typora theme (Claude desktop reading feel) + in-repo engineering skill: tokens → CSS, screenshot color sampling, font-on-screen probe |
 | [**hekouwang-laravel-to-fastapi**](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi) | Laravel ↔ FastAPI side-by-side: transfer muscle memory, long-form HTML + runnable code (GitHub Pages) |
 | [**theme.typora.io**](https://github.com/huiyonghkw/theme.typora.io) | Typora themes website |
 
