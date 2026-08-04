@@ -73,7 +73,6 @@
 
 | 仓库 | 干什么 |
 |---|---|
-| [**cczhaoche**](https://github.com/huiyonghkw/cczhaoche) | CC招车（成都希格斯）· 定制客运 SaaS 业务仓 |
 | [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI 协作 harness 母版：常驻铁律 + skills / commands / hooks，一份真源供 Claude Code、Cursor、Codebuddy 三端加载 |
 | [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | 跨会话记忆库：踩坑 / 跨服务契约 / 偏好逐条沉淀，一条一文件，MEMORY.md 为索引 |
 | [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |

@@ -73,7 +73,6 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 
 | Repo | What it does |
 |---|---|
-| [**cczhaoche**](https://github.com/huiyonghkw/cczhaoche) | CC招车 (Higgses.inc, Chengdu) · custom-transit SaaS |
 | [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI-collaboration harness master: always-on rules + skills / commands / hooks, loaded by Claude Code, Cursor and Codebuddy from one source |
 | [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | Cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
 | [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
