@@ -74,7 +74,8 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 | Repo | What it does |
 |---|---|
 | [**cczhaoche**](https://github.com/huiyonghkw/cczhaoche) | CC招车 (Higgses.inc, Chengdu) · custom-transit SaaS |
-| [**cczhaoche-factory**](https://github.com/huiyonghkw/cczhaoche-factory) | CC招车 docs/knowledge master: 9 microservices × 3 PHP runtimes · container orchestration · collab conventions |
+| [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI-collaboration harness master: always-on rules + skills / commands / hooks, loaded by Claude Code, Cursor and Codebuddy from one source |
+| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | Cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
 | [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
 | [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
 | [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | Ministry-level ride-hailing reporting MCP (CaaS) · design & implementation |
