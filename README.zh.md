@@ -64,6 +64,7 @@
 |---|---|
 | [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | 内容工厂 Skill：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
 | [**hekouwang-factory**](https://github.com/huiyonghkw/hekouwang-factory) | 内容工厂母版仓：选题配方库（公众号/小红书/头条/短视频），只追踪文本配方 |
+| [**hekouwang-factory-memory**](https://github.com/huiyonghkw/hekouwang-factory-memory) | 内容工厂跨会话记忆：踩坑 / 契约 / 偏好，MEMORY.md 为唯一索引 |
 | [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | 小红书贴图视觉主题库（M1 材质纸系） |
 | [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | 三平台（小红书/头条/公众号）渠道数据分析：SQLite 仓 + Observable 看板 |
 | [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | 公开版 terminal-kit 的私有母版——一键还原整套 macOS 终端环境 |
@@ -74,7 +75,7 @@
 | 仓库 | 干什么 |
 |---|---|
 | [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI 协作 harness 母版：常驻铁律 + skills / commands / hooks，一份真源供 Claude Code、Cursor、Codebuddy 三端加载 |
-| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | 跨会话记忆库：踩坑 / 跨服务契约 / 偏好逐条沉淀，一条一文件，MEMORY.md 为索引 |
+| [**hekouwang-memory**](https://github.com/huiyonghkw/hekouwang-memory) | CC招车跨会话记忆库：踩坑 / 跨服务契约 / 偏好逐条沉淀，一条一文件，MEMORY.md 为索引 |
 | [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
 | [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
 | [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | 交通部部级网约车上报 MCP（CaaS）· 方案与实现 |

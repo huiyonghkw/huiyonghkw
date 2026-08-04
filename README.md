@@ -64,6 +64,7 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 |---|---|
 | [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | Content studio Skill: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
 | [**hekouwang-factory**](https://github.com/huiyonghkw/hekouwang-factory) | Content-factory master repo: topic recipes (WeChat / Xiaohongshu / Toutiao / short video); text recipes only |
+| [**hekouwang-factory-memory**](https://github.com/huiyonghkw/hekouwang-factory-memory) | Content-factory cross-session memory: pitfalls / contracts / preferences, indexed by MEMORY.md |
 | [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | Xiaohongshu card visual theme library (M1 paper-material system) |
 | [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | Three-platform (Xiaohongshu / Toutiao / WeChat) channel analytics: SQLite warehouse + Observable dashboard |
 | [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | Private master behind the public **hekouwang-terminal-kit** — one-command restore of the full macOS terminal stack |
@@ -74,7 +75,7 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 | Repo | What it does |
 |---|---|
 | [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI-collaboration harness master: always-on rules + skills / commands / hooks, loaded by Claude Code, Cursor and Codebuddy from one source |
-| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | Cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
+| [**hekouwang-memory**](https://github.com/huiyonghkw/hekouwang-memory) | CC招车 cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
 | [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
 | [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
 | [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | Ministry-level ride-hailing reporting MCP (CaaS) · design & implementation |
