@@ -62,7 +62,7 @@
 
 | 仓库 | 干什么 |
 |---|---|
-| [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | 内容工厂 Skill：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
+| [**hekouwang-content-skill**](https://github.com/huiyonghkw/hekouwang-content-skill) | 内容工厂 Skill：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
 | [**hekouwang-content-harness**](https://github.com/huiyonghkw/hekouwang-content-harness) | 个人 AI harness 沉淀母版（原内容工厂工作区）；选题配方主要本地，远程沉淀 harness 与文本配方 |
 | [**hekouwang-content-memory**](https://github.com/huiyonghkw/hekouwang-content-memory) | 内容工厂跨会话记忆：踩坑 / 契约 / 偏好，MEMORY.md 为唯一索引 |
 | [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | 小红书贴图视觉主题库（M1 材质纸系） |

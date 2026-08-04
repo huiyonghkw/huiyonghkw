@@ -62,7 +62,7 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 
 | Repo | What it does |
 |---|---|
-| [**hekouwang-content-factory-skill**](https://github.com/huiyonghkw/hekouwang-content-factory-skill) | Content studio Skill: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
+| [**hekouwang-content-skill**](https://github.com/huiyonghkw/hekouwang-content-skill) | Content studio Skill: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
 | [**hekouwang-content-harness**](https://github.com/huiyonghkw/hekouwang-content-harness) | Personal AI harness master (formerly the content-factory workspace): recipes stay mostly local; remote keeps harness + text recipes |
 | [**hekouwang-content-memory**](https://github.com/huiyonghkw/hekouwang-content-memory) | Content-factory cross-session memory: pitfalls / contracts / preferences, indexed by MEMORY.md |
 | [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | Xiaohongshu card visual theme library (M1 paper-material system) |
