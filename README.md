@@ -75,8 +75,8 @@ The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. 
 |---|---|
 | [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI-collaboration harness master: always-on rules + skills / commands / hooks, loaded by Claude Code, Cursor and Codebuddy from one source |
 | [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | Cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
-| [**hekouwang-cc-prod-skill**](https://github.com/huiyonghkw/hekouwang-cc-prod-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
-| [**cc-passenger-prototype-design-skill**](https://github.com/huiyonghkw/cc-passenger-prototype-design-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
+| [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
+| [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
 | [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | Ministry-level ride-hailing reporting MCP (CaaS) · design & implementation |
 
 ### 🔒 Legacy
