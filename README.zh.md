@@ -1,123 +1,125 @@
 <div align="right"><sub><a href="README.md">English</a> · <b>中文</b></sub></div>
 
-<div align="center">
+# 你好，我是会勇禾口王 👋
 
-### 不聊 AI 会不会取代你，只聊先用 AI 的人怎么取代你。
+📍 **成都** · 🤖 **AI 工作流 builder** · 📓 **「会勇禾口王的AI笔记」**
 
-`禾口王 → 程`　·　`会勇 → 会用`　·　**真会用 AI 的程序员**
+每套工作流我先在自己电脑上跑通，再开源 Skill、交付工具。
 
 <a href="https://hekouwang.pages.dev"><img src="https://img.shields.io/badge/主题站-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/坐标-成都-6d28d9?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=huiyonghkw&color=a855f7&style=flat-square&label=Profile+Views"/>
 
-</div>
+![Claude Code](https://img.shields.io/badge/-Claude_Code-a855f7?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-6d28d9?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-a855f7?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare_Pages-6d28d9?style=flat-square&logo=cloudflare&logoColor=white)
+![ffmpeg](https://img.shields.io/badge/-ffmpeg-a855f7?style=flat-square&logo=ffmpeg&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-6d28d9?style=flat-square&logo=apple&logoColor=white"/>
 
 ---
 
-## 🧩 关于我
+## 从这里开始
 
-把复杂的 AI 讲明白，帮你把它用成生产力。做的事就三句：
+第一次来？先看这些——都是我每天用、或写给读者的：
 
-- 💡 **讲明白** —— 复杂 AI 拆成人话，看懂门道和价值
-- 🎁 **给得着** —— 我先跑通的方法和 SKILL，直接交到你手上
-- 🤝 **带得动** —— 把 AI 用成队友，一个人干出一支团队
+- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — 一份色板同步 **iTerm2 · Ghostty · Warp · 自带终端** + bat/fzf/eza/tmux/VS Code；敢装也敢卸（MIT）
+- 🩺 **[hekouwang-claude-md-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill)** — 把 `CLAUDE.md` 当运行时配置打分（0–100）+ 修复清单
+- 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 体检任意 Agent `SKILL.md`：触发、篇幅、渐进披露、安全
+- 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 不问「哪个目录大」，问「这工具你还在用吗」——交互式清理换过却没卸的旧工具
+- 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — 文章 → 一屏一镜演示 Deck，自托管字体，发 Cloudflare Pages
+- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — 复刻 Claude 桌面端阅读体验的 Typora 主题（tokens 生成 CSS）
 
-「禾口王」拼起来是个「程」字，「会勇」谐音「会用」——**会勇禾口王 = 真会用 AI 的程序员**。十余年后端老兵（`gitlab-ci-docker` 302★ · `lnmp-docker` 237★），正把 AI 用成生产力，经营「会勇禾口王的AI笔记」内容工厂：每套工作流我先跑通，再演给你看。
+---
 
-## ⭐ 精选 — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
+## 精选 — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
 
 <a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://raw.githubusercontent.com/huiyonghkw/hekouwang-terminal-kit/main/docs/images/01-cover.png" width="100%"/></a>
 
-**给 AI 时代重配的 macOS 终端。** 一份色板同时生成 **iTerm2 · Ghostty · Warp · 自带终端** 与 **bat / fzf / eza / git diff / tmux / VS Code** 的配色——换肤一条命令，四个终端 + 整条工具链一起变。**敢装也敢卸**：`--dry-run` 先预演要改什么，`migrate.sh` 接管你的 `.zshrc` 而不是覆盖，`uninstall.sh` 从备份还原。默认英文，`--lang zh` 切中文。
+**给 AI 时代重配的 macOS 终端。** 一份 `PALETTES` 源，一条命令换四个终端 + 整条工具链配色。`--dry-run` 先预演，`migrate.sh` 接管 `.zshrc`，`uninstall.sh` 从备份还原。
 
-开源版（MIT）就是一台配好的 iTerm2，完整可用、不是演示版；付费版让这份色板**走出** iTerm2。
+<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-开源%20·%20MIT-06a88c?style=flat-square&logo=github"/></a>
+<a href="https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh"><img src="https://img.shields.io/badge/文档-产品主页-6a45e0?style=flat-square"/></a>
 
-<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-开源%20·%20MIT-06a88c?style=flat-square&logo=github"/></a> <img src="https://img.shields.io/badge/4%20终端-iTerm2%20·%20Ghostty%20·%20Warp%20·%20Terminal.app-6a45e0?style=flat-square"/>
+---
 
-## 🗂 仓库一览
+## 在做的项目
 
-🔒 = 私有仓（未授权点开是 404）。全部跑在我自己每天的活里，或客户交付现场。
+### Agent Skills · 体检器系列
 
-### 🌐 开源 · Agent Skills
+- 🩺 **[hekouwang-claude-md-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill)** — harness 仓库的 `CLAUDE.md` 体检
+- 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 发布 Skill 前的质量门
+- 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 开发环境体检 + 交互式卸载
+- 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — akshare 拉公开数据 → 中立复盘（内置金融合规护栏）
 
-| 仓库 | 干什么 |
-|---|---|
-| [**hekouwang-claude-md-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) | CLAUDE.md 体检器：把它当运行时配置打分(0–100) + 修复建议 |
-| [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill 体检器：评 SKILL.md 触发/篇幅/渐进披露/安全 |
-| [**hekouwang-env-doctor-skill**](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) | 开发环境体检器：不问「哪个目录大」，问「这个工具你还在用吗」——揪出换掉却没卸干净的旧工具，配交互式清理选择器 |
-| [**hekouwang-yandu-deck-skill**](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) | 演读 DECK：文章→一屏一镜翻页演示，自托管字体，发 Cloudflare Pages |
-| [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | 个股公开数据速读：akshare 拉数→中立事后复盘（内置金融合规护栏） |
-| [**hekouwang-typora-theme-skill**](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | Typora 主题工程：CSS 由 tokens 生成而非手写，配色从截图采样而非靠猜，带字体真上屏探针 |
+### 主题、终端与教程
 
-### 📦 开源 · 主题与教程
+- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — 见上方精选
+- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude 桌面阅读感 Typora 主题
+- 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI 对照学
+- 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — 演读 DECK 流水线
+- 🌐 **[theme.typora.io](https://github.com/huiyonghkw/theme.typora.io)** — Typora 主题站
 
-| 仓库 | 干什么 |
-|---|---|
-| [**hekouwang-terminal-kit**](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 上面精选：AI 时代 macOS 终端套件（MIT） |
-| [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | 复刻 Claude 桌面端阅读体验的 Typora 主题（tokens 生成 CSS） |
-| [**laravel-to-fastapi**](https://github.com/huiyonghkw/laravel-to-fastapi) | Laravel ↔ FastAPI 对照学：肌肉记忆平移上手，HTML 长文 + 可运行代码（GitHub Pages） |
-| [**theme.typora.io**](https://github.com/huiyonghkw/theme.typora.io) | Typora 主题站点 |
+### 内容工厂 · 🔒 私有
 
-### 🔒 私有 · 自用工具链
+🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的 harness。
 
-| 仓库 | 干什么 |
-|---|---|
-| [**hekouwang-content-skill**](https://github.com/huiyonghkw/hekouwang-content-skill) | 内容工厂 Skill：一篇内容产出全平台成品（文章/贴图/图集/视频），六套品牌视觉可切换 |
-| [**hekouwang-content-harness**](https://github.com/huiyonghkw/hekouwang-content-harness) | 个人 AI harness 沉淀母版（原内容工厂工作区）；选题配方主要本地，远程沉淀 harness 与文本配方 |
-| [**hekouwang-content-memory**](https://github.com/huiyonghkw/hekouwang-content-memory) | 内容工厂跨会话记忆：踩坑 / 契约 / 偏好，MEMORY.md 为唯一索引 |
-| [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | 小红书贴图视觉主题库（M1 材质纸系） |
-| [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | 三平台（小红书/头条/公众号）渠道数据分析：SQLite 仓 + Observable 看板 |
-| [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | 公开版 terminal-kit 的私有母版——一键还原整套 macOS 终端环境 |
-| [**hekouwang-terminal-kit-pro**](https://github.com/huiyonghkw/hekouwang-terminal-kit-pro) | 付费完整版：4 套品牌主题 + 一份色板同步四终端与整条工具链 |
+- 📦 **[hekouwang-content-skill](https://github.com/huiyonghkw/hekouwang-content-skill)** — 一稿千面：文章/贴图/视频全平台成品，六套视觉
+- 🏭 **[hekouwang-content-harness](https://github.com/huiyonghkw/hekouwang-content-harness)** — 个人 AI harness 母版
+- 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
+- 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — 小红书/头条/公众号数据仓 + Observable 看板
+- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书贴图视觉主题库
 
-### 🚕 🔒 客户项目 · 定制客运 / 网约车
+### 客户项目 · 定制客运 · 🔒
 
-| 仓库 | 干什么 |
-|---|---|
-| [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI 协作 harness 母版：常驻铁律 + skills / commands / hooks，一份真源供 Claude Code、Cursor、Codebuddy 三端加载；只追踪元层（业务代码在阿里云 Codeup） |
-| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | CC招车跨会话记忆库：踩坑 / 跨服务契约 / 偏好逐条沉淀，一条一文件，MEMORY.md 为索引 |
-| [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | 产品介绍动画：宽屏滚动 HTML 生产 + 一键发布到阿里云 OSS |
-| [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | 乘客端 UI 设计系统：OKLCH + BEM，同源同语产出页面 |
-| [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | 交通部部级网约车上报 MCP（CaaS）· 方案与实现 |
+- 🚕 **[cczhaoche-harness](https://github.com/huiyonghkw/cczhaoche-harness)** — CC招车 AI 协作 harness（元层；业务代码在阿里云 Codeup）
+- 🧠 **[cczhaoche-memory](https://github.com/huiyonghkw/cczhaoche-memory)** — 同上客户的跨会话记忆
+- 🎬 **[cczhaoche-product-anim-skill](https://github.com/huiyonghkw/cczhaoche-product-anim-skill)** — 产品介绍动画 → 阿里云 OSS
+- 📱 **[cczhaoche-passenger-prototype-skill](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill)** — 乘客端 UI 系统（OKLCH + BEM）
+- 🛣️ **[ridehailing-mcp](https://github.com/huiyonghkw/ridehailing-mcp)** — 交通部部级网约车上报 MCP
 
-### 🔒 历史项目
+<details>
+<summary>历史项目 · AI 之前（gitlab-ci-docker 302★ · lnmp-docker 237★）</summary>
 
-| 仓库 | 干什么 |
-|---|---|
-| [**zhanye**](https://github.com/huiyonghkw/zhanye) / [**zhanye-h5**](https://github.com/huiyonghkw/zhanye-h5) / [**zhanye-console**](https://github.com/huiyonghkw/zhanye-console) | 有信展业 · 客户端 / H5 / 管理后台 |
-| [**api.chehubao.com**](https://github.com/huiyonghkw/api.chehubao.com) | 车护宝 API |
-| [**mall**](https://github.com/huiyonghkw/mall) · [**game**](https://github.com/huiyonghkw/game) | 早期商城 / 游戏项目 |
+- 🐳 **[gitlab-ci-docker](https://github.com/huiyonghkw/gitlab-ci-docker)** · **[lnmp-docker](https://github.com/huiyonghkw/lnmp-docker)** — 后端年代的 Docker 基建
+- 🏪 **[zhanye](https://github.com/huiyonghkw/zhanye)** / **[zhanye-h5](https://github.com/huiyonghkw/zhanye-h5)** / **[zhanye-console](https://github.com/huiyonghkw/zhanye-console)** — 有信展业
+- 🚗 **[api.chehubao.com](https://github.com/huiyonghkw/api.chehubao.com)** — 车护宝 API
 
-## 🏷 工具箱
+</details>
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-a855f7?style=flat-square&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-a855f7?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-6d28d9?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-a855f7?style=flat-square&logo=docker&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-6d28d9?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-a855f7?style=flat-square&logo=vuedotjs&logoColor=white)
-![ffmpeg](https://img.shields.io/badge/ffmpeg-6d28d9?style=flat-square&logo=ffmpeg&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-a855f7?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6d28d9?style=flat-square&logo=githubactions&logoColor=white)
+---
 
-## 📊 在 GitHub 上
+## 最近在做什么
 
-<div align="center">
+- **经营「会勇禾口王的AI笔记」** — 讲明白、给得着、带得动；每套流程先自己跑通再演给你看
+- **做体检器系列** — 像 lint 代码一样 lint `CLAUDE.md`、`SKILL.md`、开发环境
+- **交付终端 + harness 工具** — 一份色板走四个终端；一份 harness 走 Claude Code / Cursor / Codebuddy
+- **写 [hekouwang.pages.dev](https://hekouwang.pages.dev)** — 长文、演读 Deck、开放配方
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=huiyonghkw&show_icons=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=b3a5cf&bg_color=170a30"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=huiyonghkw&hide_border=true&background=170a30&stroke=a855f7&ring=a855f7&fire=ff8a3d&currStreakNum=f5f0ff&currStreakLabel=a855f7&sideNums=b3a5cf&sideLabels=786a94&dates=786a94"/>
+---
 
-</div>
+## GitHub 动态
 
-## 🌐 找我
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=huiyonghkw&hide_border=true)
 
-- 🏠 主题站 / 演读 DECK：**[hekouwang.pages.dev](https://hekouwang.pages.dev)**
-- 📓 全渠道：公众号 · 小红书 · 头条 · B站 —— 搜「**会勇禾口王的AI笔记**」
-- ✉️ huiyonghkw@gmail.com
+---
 
-<div align="center">
+## 找我
 
-<sub>把 AI 讲明白 · 让它为你创造更大的价值</sub>
+[![主题站](https://img.shields.io/badge/-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white)](https://hekouwang.pages.dev)
+[![邮箱](https://img.shields.io/badge/-huiyonghkw@gmail.com-6d28d9?style=flat-square&logo=gmail&logoColor=white)](mailto:huiyonghkw@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huiyonghkw)
 
-</div>
+- 📓 **国内全渠道** — 公众号 · 小红书 · 头条 · B站：搜「**会勇禾口王的AI笔记**」
+
+---
+
+### 态度
+
+> 不聊 AI 会不会取代你，只聊先用 AI 的人怎么取代你。我不靠 PPT 教人，我先在自己电脑上跑通，再把 Skill 交到你手上。
+
+<details>
+<summary>名字梗 · 禾口王 → 程 · 会勇 → 会用</summary>
+
+「禾口王」拼起来是个「程」字；「会勇」谐音「会用」——**会勇禾口王 = 真会用 AI 的程序员**。
+
+</details>

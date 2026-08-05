@@ -1,122 +1,125 @@
 <div align="right"><sub><b>English</b> · <a href="README.zh.md">中文</a></sub></div>
 
-<div align="center">
+# Hi, I'm 会勇禾口王 👋
 
-### The question isn't whether AI will replace you — it's how the people who use AI first will.
+📍 **Chengdu** · 🤖 **AI workflow builder** · 📓 ***AI Notes by huiyonghkw***
 
-`禾口王 → 程`　·　`会勇 → 会用`　·　**a programmer who genuinely knows how to use AI**
+I run every workflow end-to-end before I show it — then open-source the Skills and ship the tooling.
 
 <a href="https://hekouwang.pages.dev"><img src="https://img.shields.io/badge/Homepage-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Chengdu-6d28d9?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=huiyonghkw&color=a855f7&style=flat-square&label=Profile+Views"/>
 
-</div>
+![Claude Code](https://img.shields.io/badge/-Claude_Code-a855f7?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-6d28d9?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-a855f7?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare_Pages-6d28d9?style=flat-square&logo=cloudflare&logoColor=white)
+![ffmpeg](https://img.shields.io/badge/-ffmpeg-a855f7?style=flat-square&logo=ffmpeg&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-6d28d9?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
-## 🧩 About me
+## Start Here
 
-I make complicated AI make sense, and help you turn it into real productivity. Three things, that's it:
+New here? Start with these — each one I use daily or ship to readers:
 
-- 💡 **Explain it clearly** — dense AI broken down into plain talk, so you see how it works and where the value is.
-- 🎁 **Hand it over** — methods and Skills I've already run end-to-end, delivered straight into your hands.
-- 🤝 **Lead it like a team** — turn AI into a teammate: one person, a whole team's output.
+- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — one palette → **iTerm2 · Ghostty · Warp · Terminal.app** + bat/fzf/eza/tmux/VS Code; safe install *and* uninstall (MIT)
+- 🩺 **[hekouwang-claude-md-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill)** — score `CLAUDE.md` as runtime config (0–100) + fix list
+- 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — lint any Agent `SKILL.md`: triggers, length, progressive disclosure, safety
+- 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — asks *"do you still use this tool?"* not *"which folder is big"* — interactive cleanup for swapped-out dev tools
+- 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — article → one-screen-per-scene deck, self-hosted fonts, deploy to Cloudflare Pages
+- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Typora theme that recreates Claude desktop's reading feel (CSS from tokens, not hand-written)
 
-My handle is a Chinese pun. The last three characters 「禾口王」 stack into 「程」 (*chéng*, "code / process"); 「会勇」 sounds like 「会用」 ("knows how to use") — so the name reads as **"a programmer who genuinely knows how to use AI."** I'm a backend veteran of 10+ years (`gitlab-ci-docker` 302★ · `lnmp-docker` 237★), turning AI into real productivity and running my content studio *AI Notes by huiyonghkw* — every workflow I run end-to-end myself before I show it to you.
+---
 
-## ⭐ Featured — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
+## Featured — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
 
 <a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://raw.githubusercontent.com/huiyonghkw/hekouwang-terminal-kit/main/docs/images/01-cover.en.png" width="100%"/></a>
 
-**Give your macOS terminal one more round of setup for the AI era.** One `PALETTES` source generates the colors for **iTerm2 · Ghostty · Warp · the built-in Terminal** plus **bat / fzf / eza / git diff / tmux / VS Code** — reskin four terminals and the whole tool chain in one command. Safe to install *and* uninstall: `--dry-run` previews every change, `migrate.sh` adopts your `.zshrc` instead of overwriting it, `uninstall.sh` restores from backup. English by default; `--lang zh` for Chinese.
+**Give your macOS terminal one more round of setup for the AI era.** One `PALETTES` source generates colors for four terminals and the whole tool chain in one command. `--dry-run` previews changes; `migrate.sh` adopts your `.zshrc`; `uninstall.sh` restores from backup.
 
-The open-source build (MIT) is a complete, working iTerm2 setup — not a demo. The paid build makes that one palette *walk out of* iTerm2.
+<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-open%20source%20·%20MIT-06a88c?style=flat-square&logo=github"/></a>
+<a href="https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en"><img src="https://img.shields.io/badge/docs-product%20home-6a45e0?style=flat-square"/></a>
 
-<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-open%20source%20·%20MIT-06a88c?style=flat-square&logo=github"/></a> <img src="https://img.shields.io/badge/4%20terminals-iTerm2%20·%20Ghostty%20·%20Warp%20·%20Terminal.app-6a45e0?style=flat-square"/>
+---
 
-## 🗂 Repositories
+## Current Projects
 
-🔒 = private (404 unless you have access). Everything here runs in my daily work or on a client delivery.
+### Agent Skills · doctor suite
 
-### 🌐 Open source · Agent Skills
+- 🩺 **[hekouwang-claude-md-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill)** — `CLAUDE.md` linter for harness repos
+- 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — `SKILL.md` quality gate before you publish a Skill
+- 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — dev-env doctor with interactive uninstall picker
+- 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — public stock data via akshare → neutral recap (compliance guardrails built in)
 
-| Repo | What it does |
-|---|---|
-| [**hekouwang-claude-md-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) | CLAUDE.md linter: scores it as runtime config (0–100) + fix suggestions |
-| [**hekouwang-claude-skill-doctor-skill**](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | Agent Skill linter: rates SKILL.md triggering / length / progressive disclosure / safety |
-| [**hekouwang-env-doctor-skill**](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) | Dev-env doctor: asks "do you still use this tool?", not "which folder is big" — finds the old tools you swapped out but never uninstalled, with an interactive cleanup picker |
-| [**hekouwang-yandu-deck-skill**](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) | Yandu Deck: article → one-screen-per-scene slide deck, self-hosted fonts, ships to Cloudflare Pages |
-| [**hekouwang-stock-data-reader-skill**](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | Public stock-data reader: pulls data via akshare → neutral post-hoc recap (financial-compliance guardrails built in) |
+### Themes, terminals & tutorials
 
-### 📦 Open source · themes & tutorials
+- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — featured above
+- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude-desktop reading experience in Typora
+- 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI side-by-side for muscle-memory transfer
+- 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — Yandu Deck slide pipeline
+- 🌐 **[theme.typora.io](https://github.com/huiyonghkw/theme.typora.io)** — Typora themes site
 
-| Repo | What it does |
-|---|---|
-| [**hekouwang-terminal-kit**](https://github.com/huiyonghkw/hekouwang-terminal-kit) | Featured above: macOS terminal kit for the AI era (MIT) |
-| [**hekouwang-typora-theme**](https://github.com/huiyonghkw/hekouwang-typora-theme) | Typora theme (Claude desktop reading feel) + in-repo engineering skill: tokens → CSS, screenshot color sampling, font-on-screen probe |
-| [**hekouwang-laravel-to-fastapi**](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi) | Laravel ↔ FastAPI side-by-side: transfer muscle memory, long-form HTML + runnable code (GitHub Pages) |
-| [**theme.typora.io**](https://github.com/huiyonghkw/theme.typora.io) | Typora themes website |
+### Content factory · 🔒 private
 
-### 🔒 Private · my own toolchain
+🔒 = private (404 unless you have access). The harness behind *AI Notes by huiyonghkw*.
 
-| Repo | What it does |
-|---|---|
-| [**hekouwang-content-skill**](https://github.com/huiyonghkw/hekouwang-content-skill) | Content studio Skill: one piece of writing → finished assets for every platform (article / cards / image sets / video), six switchable brand visual systems |
-| [**hekouwang-content-harness**](https://github.com/huiyonghkw/hekouwang-content-harness) | Personal AI harness master (formerly the content-factory workspace): recipes stay mostly local; remote keeps harness + text recipes |
-| [**hekouwang-content-memory**](https://github.com/huiyonghkw/hekouwang-content-memory) | Content-factory cross-session memory: pitfalls / contracts / preferences, indexed by MEMORY.md |
-| [**hekouwang-xhs-theme-skill**](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill) | Xiaohongshu card visual theme library (M1 paper-material system) |
-| [**hekouwang-channel-analyzer**](https://github.com/huiyonghkw/hekouwang-channel-analyzer) | Three-platform (Xiaohongshu / Toutiao / WeChat) channel analytics: SQLite warehouse + Observable dashboard |
-| [**hekouwang-iterm2-skill**](https://github.com/huiyonghkw/hekouwang-iterm2-skill) | Private master behind the public **hekouwang-terminal-kit** — one-command restore of the full macOS terminal stack |
-| [**hekouwang-terminal-kit-pro**](https://github.com/huiyonghkw/hekouwang-terminal-kit-pro) | Paid complete build: 4 brand themes + one palette syncing four terminals and the whole tool chain |
+- 📦 **[hekouwang-content-skill](https://github.com/huiyonghkw/hekouwang-content-skill)** — one draft → finished assets for every platform (article / cards / video), six visual systems
+- 🏭 **[hekouwang-content-harness](https://github.com/huiyonghkw/hekouwang-content-harness)** — personal AI harness master: rules, recipes, multi-tool loading
+- 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
+- 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
+- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — Xiaohongshu card visual theme library
 
-### 🚕 🔒 Client work · custom transit / ride-hailing
+### Client work · custom transit · 🔒
 
-| Repo | What it does |
-|---|---|
-| [**cczhaoche-harness**](https://github.com/huiyonghkw/cczhaoche-harness) | CC招车 AI-collaboration harness master: always-on rules + skills / commands / hooks, loaded by Claude Code, Cursor and Codebuddy from one source; meta-layer only (business code stays on Aliyun Codeup) |
-| [**cczhaoche-memory**](https://github.com/huiyonghkw/cczhaoche-memory) | CC招车 cross-session memory: pitfalls, cross-service contracts and preferences, one file per lesson, indexed by MEMORY.md |
-| [**cczhaoche-product-anim-skill**](https://github.com/huiyonghkw/cczhaoche-product-anim-skill) | Product-intro animations: wide-screen scroll HTML pipeline + one-click deploy to Aliyun OSS |
-| [**cczhaoche-passenger-prototype-skill**](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill) | Passenger-app UI design system: OKLCH + BEM, pages that speak one visual language |
-| [**ridehailing-mcp**](https://github.com/huiyonghkw/ridehailing-mcp) | Ministry-level ride-hailing reporting MCP (CaaS) · design & implementation |
+- 🚕 **[cczhaoche-harness](https://github.com/huiyonghkw/cczhaoche-harness)** — AI-collaboration harness for a ride-hailing SaaS (meta-layer only; business code on Aliyun Codeup)
+- 🧠 **[cczhaoche-memory](https://github.com/huiyonghkw/cczhaoche-memory)** — cross-session memory for the same client
+- 🎬 **[cczhaoche-product-anim-skill](https://github.com/huiyonghkw/cczhaoche-product-anim-skill)** — product intro animations → Aliyun OSS
+- 📱 **[cczhaoche-passenger-prototype-skill](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill)** — passenger-app UI system (OKLCH + BEM)
+- 🛣️ **[ridehailing-mcp](https://github.com/huiyonghkw/ridehailing-mcp)** — ministry-level ride-hailing reporting MCP (CaaS)
 
-### 🔒 Legacy
+<details>
+<summary>Legacy · pre-AI era (gitlab-ci-docker 302★ · lnmp-docker 237★)</summary>
 
-| Repo | What it does |
-|---|---|
-| [**zhanye**](https://github.com/huiyonghkw/zhanye) / [**zhanye-h5**](https://github.com/huiyonghkw/zhanye-h5) / [**zhanye-console**](https://github.com/huiyonghkw/zhanye-console) | 有信展业 · client / H5 / admin console |
-| [**api.chehubao.com**](https://github.com/huiyonghkw/api.chehubao.com) | Chehubao API |
-| [**mall**](https://github.com/huiyonghkw/mall) · [**game**](https://github.com/huiyonghkw/game) | Early mall / game projects |
+- 🐳 **[gitlab-ci-docker](https://github.com/huiyonghkw/gitlab-ci-docker)** · **[lnmp-docker](https://github.com/huiyonghkw/lnmp-docker)** — Docker CI/CD stacks from my backend years
+- 🏪 **[zhanye](https://github.com/huiyonghkw/zhanye)** / **[zhanye-h5](https://github.com/huiyonghkw/zhanye-h5)** / **[zhanye-console](https://github.com/huiyonghkw/zhanye-console)** — 有信展业 client / H5 / admin
+- 🚗 **[api.chehubao.com](https://github.com/huiyonghkw/api.chehubao.com)** — Chehubao API
 
-## 🏷 Toolbox
+</details>
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-a855f7?style=flat-square&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-a855f7?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-6d28d9?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-a855f7?style=flat-square&logo=docker&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-6d28d9?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-a855f7?style=flat-square&logo=vuedotjs&logoColor=white)
-![ffmpeg](https://img.shields.io/badge/ffmpeg-6d28d9?style=flat-square&logo=ffmpeg&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-a855f7?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6d28d9?style=flat-square&logo=githubactions&logoColor=white)
+---
 
-## 📊 On GitHub
+## What I'm doing
 
-<div align="center">
+- **Running *AI Notes by huiyonghkw*** — explain dense AI in plain talk, ship Skills readers can copy, record every workflow before I teach it
+- **Building the doctor suite** — lint `CLAUDE.md`, `SKILL.md`, and dev environments the way you'd lint code
+- **Shipping terminal + harness tooling** — one palette across four terminals; one harness across Claude Code, Cursor, and Codebuddy
+- **Writing on [hekouwang.pages.dev](https://hekouwang.pages.dev)** — long-form articles, Yandu Decks, open recipes
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=huiyonghkw&show_icons=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=b3a5cf&bg_color=170a30"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=huiyonghkw&hide_border=true&background=170a30&stroke=a855f7&ring=a855f7&fire=ff8a3d&currStreakNum=f5f0ff&currStreakLabel=a855f7&sideNums=b3a5cf&sideLabels=786a94&dates=786a94"/>
+---
 
-</div>
+## GitHub Activity
 
-## 🌐 Find me
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=huiyonghkw&hide_border=true)
 
-- 🏠 Homepage / Yandu Deck: **[hekouwang.pages.dev](https://hekouwang.pages.dev)**
-- 📓 Everywhere (CN platforms): WeChat · Xiaohongshu · Toutiao · Bilibili — search **「会勇禾口王的AI笔记」**
-- ✉️ huiyonghkw@gmail.com
+---
 
-<div align="center">
+## Connect
 
-<sub>Making AI make sense · so it creates more value for you</sub>
+[![Homepage](https://img.shields.io/badge/-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white)](https://hekouwang.pages.dev)
+[![Email](https://img.shields.io/badge/-huiyonghkw@gmail.com-6d28d9?style=flat-square&logo=gmail&logoColor=white)](mailto:huiyonghkw@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huiyonghkw)
 
-</div>
+- 📓 **CN platforms** — WeChat · Xiaohongshu · Toutiao · Bilibili: search **「会勇禾口王的AI笔记」**
+
+---
+
+### Philosophy
+
+> The question isn't whether AI will replace you — it's how the people who use AI first will. I don't teach from slides; I ship from my own machine, then hand you the Skill.
+
+<details>
+<summary>About the name · 禾口王 → 程 · 会勇 → 会用</summary>
+
+「禾口王」 stacks into 「程」 (*chéng*, code / process); 「会勇」 sounds like 「会用」 ("knows how to use") — **会勇禾口王 = a programmer who genuinely knows how to use AI.**
+
+</details>
