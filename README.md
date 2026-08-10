@@ -18,27 +18,16 @@ I run every workflow end-to-end before I show it — then open-source the Skills
 
 ---
 
-## Start Here
+## Featured Products
 
-New here? Start with these — each one I use daily or ship to readers:
+Three self-hosted tools I actively maintain — start with the problem you want to solve:
 
-- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — one palette → **iTerm2 · Ghostty · Warp · Terminal.app** + bat/fzf/eza/tmux/VS Code; safe install *and* uninstall (MIT)
-- 🩺 **[hekouwang-claude-md-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill)** — score `CLAUDE.md` as runtime config (0–100) + fix list
-- 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — lint any Agent `SKILL.md`: triggers, length, progressive disclosure, safety
-- 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — asks *"do you still use this tool?"* not *"which folder is big"* — interactive cleanup for swapped-out dev tools
-- 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — article → one-screen-per-scene deck, self-hosted fonts, deploy to Cloudflare Pages
-- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Typora theme that recreates Claude desktop's reading feel (CSS from tokens, not hand-written)
+| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) |
+| --- | --- | --- |
+| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Bring the Claude desktop reading feel to Typora through a maintainable token-driven theme. |
+| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) |
 
----
-
-## Featured — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
-
-<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://raw.githubusercontent.com/huiyonghkw/hekouwang-terminal-kit/main/docs/images/01-cover.en.png" width="100%"/></a>
-
-**Give your macOS terminal one more round of setup for the AI era.** One `PALETTES` source generates colors for four terminals and the whole tool chain in one command. `--dry-run` previews changes; `migrate.sh` adopts your `.zshrc`; `uninstall.sh` restores from backup.
-
-<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-open%20source%20·%20MIT-06a88c?style=flat-square&logo=github"/></a>
-<a href="https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en"><img src="https://img.shields.io/badge/docs-product%20home-6a45e0?style=flat-square"/></a>
+More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
 
 ---
 
@@ -53,7 +42,7 @@ New here? Start with these — each one I use daily or ship to readers:
 
 ### Themes, terminals & tutorials
 
-- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — featured above
+- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — featured product above
 - 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude-desktop reading experience in Typora
 - 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI side-by-side for muscle-memory transfer
 - 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — Yandu Deck slide pipeline

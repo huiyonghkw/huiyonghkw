@@ -18,27 +18,16 @@
 
 ---
 
-## 从这里开始
+## 主推产品
 
-第一次来？先看这些——都是我每天用、或写给读者的：
+我目前持续维护的三款自托管工具——按你要解决的问题进入：
 
-- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — 一份色板同步 **iTerm2 · Ghostty · Warp · 自带终端** + bat/fzf/eza/tmux/VS Code；敢装也敢卸（MIT）
-- 🩺 **[hekouwang-claude-md-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill)** — 把 `CLAUDE.md` 当运行时配置打分（0–100）+ 修复清单
-- 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 体检任意 Agent `SKILL.md`：触发、篇幅、渐进披露、安全
-- 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 不问「哪个目录大」，问「这工具你还在用吗」——交互式清理换过却没卸的旧工具
-- 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — 文章 → 一屏一镜演示 Deck，自托管字体，发 Cloudflare Pages
-- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — 复刻 Claude 桌面端阅读体验的 Typora 主题（tokens 生成 CSS）
+| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) |
+| --- | --- | --- |
+| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | 一份色板同步 iTerm2、Ghostty、Warp、自带终端和命令行工具链；敢装也敢卸。 | 用可维护的设计 token，把 Claude 桌面端的阅读体验带进 Typora。 |
+| [产品主页 →](https://huiyonghkw.github.io/CertHub/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh) | [查看仓库 →](https://github.com/huiyonghkw/hekouwang-typora-theme) |
 
----
-
-## 精选 — [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)
-
-<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://raw.githubusercontent.com/huiyonghkw/hekouwang-terminal-kit/main/docs/images/01-cover.png" width="100%"/></a>
-
-**给 AI 时代重配的 macOS 终端。** 一份 `PALETTES` 源，一条命令换四个终端 + 整条工具链配色。`--dry-run` 先预演，`migrate.sh` 接管 `.zshrc`，`uninstall.sh` 从备份还原。
-
-<a href="https://github.com/huiyonghkw/hekouwang-terminal-kit"><img src="https://img.shields.io/badge/hekouwang--terminal--kit-开源%20·%20MIT-06a88c?style=flat-square&logo=github"/></a>
-<a href="https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh"><img src="https://img.shields.io/badge/文档-产品主页-6a45e0?style=flat-square"/></a>
+更多开源工具：[CLAUDE.md 体检器](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill 体检器](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [环境体检器](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [演读 Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
 
 ---
 
@@ -53,7 +42,7 @@
 
 ### 主题、终端与教程
 
-- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — 见上方精选
+- 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — 见上方主推产品
 - 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude 桌面阅读感 Typora 主题
 - 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI 对照学
 - 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — 演读 DECK 流水线
