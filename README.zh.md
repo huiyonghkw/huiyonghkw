@@ -53,6 +53,7 @@
 🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的 harness。
 
 - 📦 **[hekouwang-content-skill](https://github.com/huiyonghkw/hekouwang-content-skill)** — 一稿千面：文章/贴图/视频全平台成品，六套视觉
+- 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP 调研与证据真源：查已发布、核验一手事实与数据口径，交付可追溯研究包和图表合同
 - 🏭 **[hekouwang-content-harness](https://github.com/huiyonghkw/hekouwang-content-harness)** — 个人 AI harness 母版
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — 小红书/头条/公众号数据仓 + Observable 看板
