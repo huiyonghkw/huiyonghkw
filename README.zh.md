@@ -58,6 +58,7 @@
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — 小红书/头条/公众号数据仓 + Observable 看板
 - 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书贴图视觉主题库
+- 📰 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号排版适配：Markdown → 富文本预览、图片清单、横向首图和发布验收
 
 ### 客户项目 · 定制客运 · 🔒
 
