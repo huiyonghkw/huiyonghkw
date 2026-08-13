@@ -52,13 +52,13 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 
 🔒 = private (404 unless you have access). The harness behind *AI Notes by huiyonghkw*.
 
-- 📦 **[hekouwang-content-skill](https://github.com/huiyonghkw/hekouwang-content-skill)** — one draft → finished assets for every platform (article / cards / video), six visual systems
+- 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP research evidence source: published-topic checks, first-party facts, data definitions and traceable chart contracts
 - 🏭 **[hekouwang-content-harness](https://github.com/huiyonghkw/hekouwang-content-harness)** — personal AI harness master: rules, recipes, multi-tool loading
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
-- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — Xiaohongshu card visual theme library
-- 📰 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — WeChat article layout adapter: Markdown → rich-text preview, image manifest, landscape cover and publish QA
+- 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — WeChat article HTML layout, preview and publishing QA
+- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — Xiaohongshu 1080×1440 group-card visual theme library
 
 ### Client work · custom transit · 🔒
 
@@ -84,7 +84,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - **Running *AI Notes by huiyonghkw*** — explain dense AI in plain talk, ship Skills readers can copy, record every workflow before I teach it
 - **Building the doctor suite** — lint `CLAUDE.md`, `SKILL.md`, and dev environments the way you'd lint code
 - **Shipping terminal + harness tooling** — one palette across four terminals; one harness across Claude Code, Cursor, and Codebuddy
-- **Writing on [hekouwang.pages.dev](https://hekouwang.pages.dev)** — long-form articles, Yandu Decks, open recipes
+- **Writing on [hekouwang.pages.dev](https://hekouwang.pages.dev)** — master articles, channel editions, Yandu Decks and open recipes
 
 ---
 

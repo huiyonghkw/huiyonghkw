@@ -52,13 +52,13 @@
 
 🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的 harness。
 
-- 📦 **[hekouwang-content-skill](https://github.com/huiyonghkw/hekouwang-content-skill)** — 一稿千面：文章/贴图/视频全平台成品，六套视觉
+- 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — 基于研究包的文章母本、母版 HTML、跨渠道内容合同与发布文案
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP 调研与证据真源：查已发布、核验一手事实与数据口径，交付可追溯研究包和图表合同
 - 🏭 **[hekouwang-content-harness](https://github.com/huiyonghkw/hekouwang-content-harness)** — 个人 AI harness 母版
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — 小红书/头条/公众号数据仓 + Observable 看板
-- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书贴图视觉主题库
-- 📰 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号排版适配：Markdown → 富文本预览、图片清单、横向首图和发布验收
+- 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号文章 HTML 排版、预览与发布验收
+- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书 1080×1440 组图视觉主题库
 
 ### 客户项目 · 定制客运 · 🔒
 
@@ -84,7 +84,7 @@
 - **经营「会勇禾口王的AI笔记」** — 讲明白、给得着、带得动；每套流程先自己跑通再演给你看
 - **做体检器系列** — 像 lint 代码一样 lint `CLAUDE.md`、`SKILL.md`、开发环境
 - **交付终端 + harness 工具** — 一份色板走四个终端；一份 harness 走 Claude Code / Cursor / Codebuddy
-- **写 [hekouwang.pages.dev](https://hekouwang.pages.dev)** — 长文、演读 Deck、开放配方
+- **写 [hekouwang.pages.dev](https://hekouwang.pages.dev)** — 文章母本、渠道版本、演读 Deck、开放配方
 
 ---
 
