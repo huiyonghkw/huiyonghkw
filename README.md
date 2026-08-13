@@ -54,7 +54,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP research evidence source: published-topic checks, first-party facts, data definitions and traceable chart contracts
-- 🏭 **[hekouwang-content-agent](https://github.com/huiyonghkw/hekouwang-content-agent)** — personal AI harness master: rules, recipes, multi-tool loading
+- 🏭 **[hekouwang-content-agent](https://github.com/huiyonghkw/hekouwang-content-agent)** — personal content production Agent: rules, recipes, multi-tool loading
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — WeChat article HTML layout, preview and publishing QA
