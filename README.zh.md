@@ -58,6 +58,7 @@
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — 小红书/头条/公众号数据仓 + Observable 看板
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号文章 HTML 排版、预览与发布验收
+- 📰 **[hekouwang-toutiao-design-skill](https://github.com/huiyonghkw/hekouwang-toutiao-design-skill)** — 头条文章 HTML、16:9 首图/配图清单与手机发布验收
 - 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书 1080×1440 组图视觉主题库
 
 ### 客户项目 · 定制客运 · 🔒
@@ -85,6 +86,7 @@
 - **做体检器系列** — 像 lint 代码一样 lint `CLAUDE.md`、`SKILL.md`、开发环境
 - **交付终端 + harness 工具** — 一份色板走四个终端；一份 harness 走 Claude Code / Cursor / Codebuddy
 - **写 [hekouwang.pages.dev](https://hekouwang.pages.dev)** — 文章母本、渠道版本、演读 Deck、开放配方
+- **做渠道设计层** — 一份研究过的文章母本，分别落成公众号、头条和小红书版本，各自遵守平台视觉合同
 
 ---
 

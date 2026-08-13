@@ -58,6 +58,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — WeChat article HTML layout, preview and publishing QA
+- 📰 **[hekouwang-toutiao-design-skill](https://github.com/huiyonghkw/hekouwang-toutiao-design-skill)** — Toutiao article HTML, 16:9 cover/image manifest and mobile publishing QA
 - 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — Xiaohongshu 1080×1440 group-card visual theme library
 
 ### Client work · custom transit · 🔒
@@ -85,6 +86,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - **Building the doctor suite** — lint `CLAUDE.md`, `SKILL.md`, and dev environments the way you'd lint code
 - **Shipping terminal + harness tooling** — one palette across four terminals; one harness across Claude Code, Cursor, and Codebuddy
 - **Writing on [hekouwang.pages.dev](https://hekouwang.pages.dev)** — master articles, channel editions, Yandu Decks and open recipes
+- **Designing the channel layer** — one researched article master, then native WeChat, Toutiao and Xiaohongshu editions with separate visual contracts
 
 ---
 
