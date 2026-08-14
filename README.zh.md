@@ -60,6 +60,7 @@
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号文章 HTML 排版、预览与发布验收
 - 📰 **[hekouwang-toutiao-design-skill](https://github.com/huiyonghkw/hekouwang-toutiao-design-skill)** — 头条文章 HTML、16:9 首图/配图清单与手机发布验收
 - 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书 1080×1440 组图视觉主题库
+- 🖋️ **[hekouwang-deai-skill](https://github.com/huiyonghkw/hekouwang-deai-skill)** — 中文去 AI 味：先诊断再改写，保留事实与信息密度
 
 ### 客户项目 · 定制客运 · 🔒
 
