@@ -41,7 +41,7 @@
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 发布 Skill 前的质量门
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 开发环境体检 + 交互式卸载
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — akshare 拉公开数据 → 中立复盘（内置金融合规护栏）
-- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-content-agent)** — 证据驱动的 Harness 检查器：覆盖本地 / 暂存区 / CI、Hook、Safety Gate、Task Contract、Episode、可观测性和人工复核边界；🔒 源仓库暂时私有，开源版本准备中
+- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — 已公开的证据驱动 Harness 检查器：覆盖本地 / 暂存区 / CI、Hook、Safety Gate、Task Contract、Episode、可观测性和人工复核边界；项目专属 `.harness/` 真源仍在参考内容仓库中
 
 ### 主题、终端与教程
 

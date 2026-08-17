@@ -41,7 +41,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — `SKILL.md` quality gate before you publish a Skill
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — dev-env doctor with interactive uninstall picker
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — public stock data via akshare → neutral recap (compliance guardrails built in)
-- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-content-agent)** — evidence-driven Harness checks for local / staged / CI runs, Hooks, Safety Gates, Task Contracts, Episodes, observability and human-review boundaries; 🔒 source repo is private while the open-source release is prepared
+- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — public, evidence-driven Harness checks for local / staged / CI runs, Hooks, Safety Gates, Task Contracts, Episodes, observability and human-review boundaries; project-specific `.harness/` sources live in the reference content-agent repo
 
 ### Themes, terminals & tutorials
 
