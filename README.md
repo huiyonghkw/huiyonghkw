@@ -5,6 +5,8 @@
 📍 **Chengdu** · 🤖 **AI workflow builder** · 📓 ***AI Notes by huiyonghkw***
 
 I run every workflow end-to-end before I show it — then open-source the Skills and ship the tooling.
+I build agent workflows as products: research → production → delivery → evidence.
+I’m turning the Harness behind that work into an open-source project, with checks for Hooks, Task Contracts, Safety Gates, Episodes, observability and human review.
 
 <a href="https://hekouwang.pages.dev"><img src="https://img.shields.io/badge/Homepage-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Chengdu-6d28d9?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -39,6 +41,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — `SKILL.md` quality gate before you publish a Skill
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — dev-env doctor with interactive uninstall picker
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — public stock data via akshare → neutral recap (compliance guardrails built in)
+- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-content-agent)** — evidence-driven Harness checks for local / staged / CI runs, Hooks, Safety Gates, Task Contracts, Episodes, observability and human-review boundaries; 🔒 source repo is private while the open-source release is prepared
 
 ### Themes, terminals & tutorials
 
@@ -50,7 +53,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 
 ### Content factory · 🔒 private
 
-🔒 = private (404 unless you have access). The harness behind *AI Notes by huiyonghkw*.
+🔒 = private (404 unless you have access). The content and Harness layer behind *AI Notes by huiyonghkw*.
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP research evidence source: published-topic checks, first-party facts, data definitions and traceable chart contracts
@@ -85,7 +88,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 
 - **Running *AI Notes by huiyonghkw*** — explain dense AI in plain talk, ship Skills readers can copy, record every workflow before I teach it
 - **Building the doctor suite** — lint `CLAUDE.md`, `SKILL.md`, and dev environments the way you'd lint code
-- **Shipping terminal + harness tooling** — one palette across four terminals; one harness across Claude Code, Cursor, and Codebuddy
+- **Shipping terminal + harness tooling** — one palette across four terminals; one evidence-driven Harness across Claude Code, Cursor, Codebuddy, and Codex
 - **Writing on [hekouwang.pages.dev](https://hekouwang.pages.dev)** — master articles, channel editions, Yandu Decks and open recipes
 - **Designing the channel layer** — one researched article master, then native WeChat, Toutiao and Xiaohongshu editions with separate visual contracts
 

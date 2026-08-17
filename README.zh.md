@@ -5,6 +5,8 @@
 📍 **成都** · 🤖 **AI 工作流 builder** · 📓 **「会勇禾口王的AI笔记」**
 
 每套工作流我先在自己电脑上跑通，再开源 Skill、交付工具。
+我把 Agent 工作流当成产品来做：研究 → 生产 → 交付 → 证据。
+现在也在把背后的 Harness 整理成可开源项目：覆盖 Hook、Task Contract、Safety Gate、Episode、可观测性和人工复核。
 
 <a href="https://hekouwang.pages.dev"><img src="https://img.shields.io/badge/主题站-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/坐标-成都-6d28d9?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -39,6 +41,7 @@
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 发布 Skill 前的质量门
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 开发环境体检 + 交互式卸载
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — akshare 拉公开数据 → 中立复盘（内置金融合规护栏）
+- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-content-agent)** — 证据驱动的 Harness 检查器：覆盖本地 / 暂存区 / CI、Hook、Safety Gate、Task Contract、Episode、可观测性和人工复核边界；🔒 源仓库暂时私有，开源版本准备中
 
 ### 主题、终端与教程
 
@@ -50,7 +53,7 @@
 
 ### 内容工厂 · 🔒 私有
 
-🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的 harness。
+🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的内容生产与 Harness 层。
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — 基于研究包的文章母本、母版 HTML、跨渠道内容合同与发布文案
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP 调研与证据真源：查已发布、核验一手事实与数据口径，交付可追溯研究包和图表合同
@@ -85,7 +88,7 @@
 
 - **经营「会勇禾口王的AI笔记」** — 讲明白、给得着、带得动；每套流程先自己跑通再演给你看
 - **做体检器系列** — 像 lint 代码一样 lint `CLAUDE.md`、`SKILL.md`、开发环境
-- **交付终端 + harness 工具** — 一份色板走四个终端；一份 harness 走 Claude Code / Cursor / Codebuddy
+- **交付终端 + harness 工具** — 一份色板走四个终端；一套证据驱动 Harness 走 Claude Code / Cursor / Codebuddy / Codex
 - **写 [hekouwang.pages.dev](https://hekouwang.pages.dev)** — 文章母本、渠道版本、演读 Deck、开放配方
 - **做渠道设计层** — 一份研究过的文章母本，分别落成公众号、头条和小红书版本，各自遵守平台视觉合同
 
