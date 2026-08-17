@@ -22,12 +22,12 @@ I’m turning the Harness behind that work into an open-source project, with che
 
 ## Featured Products
 
-Three self-hosted tools I actively maintain — start with the problem you want to solve:
+Four self-hosted tools I actively maintain — start with the problem you want to solve:
 
-| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) |
-| --- | --- | --- |
-| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Bring the Claude desktop reading feel to Typora through a maintainable token-driven theme. |
-| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) |
+| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🩺 [hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill) |
+| --- | --- | --- | --- |
+| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Bring the Claude desktop reading feel to Typora through a maintainable token-driven theme. | Inspect an Agent Harness with evidence-first checks across local, staging and CI — hooks, safety gates, task contracts and host boundaries. |
+| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [Product home →](https://huiyonghkw.github.io/hekouwang-harness-check-skill/) |
 
 More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
 
@@ -49,7 +49,6 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude-desktop reading experience in Typora
 - 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI side-by-side for muscle-memory transfer
 - 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — Yandu Deck slide pipeline
-- 🌐 **[theme.typora.io](https://github.com/huiyonghkw/theme.typora.io)** — Typora themes site
 
 ### Content factory · 🔒 private
 
