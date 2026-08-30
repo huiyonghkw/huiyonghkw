@@ -52,11 +52,12 @@
 
 ### 内容工厂 · 🔒 私有
 
-🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的内容生产与 Harness 层。
+🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的内容生产与 Harness 层；下方标注 **公开** 的检查器是可复用的验证入口。
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — 基于研究包的文章母本、母版 HTML、跨渠道内容合同与发布文案
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP 调研与证据真源：查已发布、核验一手事实与数据口径，交付可追溯研究包和图表合同
 - 🏭 **[hekouwang-content-harness](https://github.com/huiyonghkw/hekouwang-content-harness)** — 个人 AI harness 母版
+- 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — **公开**、证据驱动的 Harness 检查器：本地 / 暂存区 / 隔离 CI、Hook、安全门、契约、可观测性与真实宿主边界
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — 小红书/头条/公众号数据仓 + Observable 看板
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号文章 HTML 排版、预览与发布验收
