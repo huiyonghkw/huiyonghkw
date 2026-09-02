@@ -6,6 +6,7 @@
 
 I run every workflow end-to-end before I show it — then open-source the Skills and ship the tooling.
 I build agent workflows as products: research → production → delivery → evidence.
+I’m building a Content Growth Engine Agent around that workflow: channel data → growth hypotheses → research → publishing → review.
 I’m turning the Harness behind that work into an open-source project, with checks for Hooks, Task Contracts, Safety Gates, Episodes, observability and human review.
 
 <a href="https://hekouwang.pages.dev"><img src="https://img.shields.io/badge/Homepage-hekouwang.pages.dev-a855f7?style=flat-square&logo=cloudflare&logoColor=white"/></a>
@@ -52,11 +53,11 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 
 ### Content factory · 🔒 private
 
-🔒 = private (404 unless you have access). The content and Harness layer behind *AI Notes by huiyonghkw*; the checker marked **public** below is the reusable verification entry.
+🔒 = private (404 unless you have access). The content growth and Harness layer behind *AI Notes by huiyonghkw*.
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
 - 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP research evidence source: published-topic checks, first-party facts, data definitions and traceable chart contracts
-- 🏭 **[hekouwang-content-agent](https://github.com/huiyonghkw/hekouwang-content-agent)** — personal content production Agent: rules, recipes, multi-tool loading
+- 🚀 **[hekouwang-content-growth-engine-agent](https://github.com/huiyonghkw/hekouwang-content-growth-engine-agent)** — private Content Growth Engine Agent: channel data, growth hypotheses, research, multi-channel production and post-publication review
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — **public** evidence-driven Harness checker: local / staged / hermetic CI checks, Hooks, safety, contracts, observability and real-host boundaries
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
 - 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
