@@ -56,7 +56,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 🔒 = private (404 unless you have access). The content growth and Harness layer behind *AI Notes by huiyonghkw*.
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
-- 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP research evidence source: published-topic checks, first-party facts, data definitions and traceable chart contracts
+- 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP fact & growth research: planning card → research package → opportunity contract; Chinese status layers (fact / observed / hearsay / inference / hypothesis) so speculation is never written as fact; fact source only — no article or visuals
 - 🚀 **[hekouwang-content-growth-engine-agent](https://github.com/huiyonghkw/hekouwang-content-growth-engine-agent)** — private Content Growth Engine Agent: channel data, growth hypotheses, research, multi-channel production and post-publication review
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — **public** evidence-driven Harness checker: local / staged / hermetic CI checks, Hooks, safety, contracts, observability and real-host boundaries
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)

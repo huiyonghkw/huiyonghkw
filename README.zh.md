@@ -56,7 +56,7 @@
 🔒 = 私有仓（未授权 404）。「会勇禾口王的AI笔记」背后的内容增长与 Harness 层。
 
 - 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — 基于研究包的文章母本、母版 HTML、跨渠道内容合同与发布文案
-- 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP 调研与证据真源：查已发布、核验一手事实与数据口径，交付可追溯研究包和图表合同
+- 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP 事实与增长研究：策划单立项 → 事实研究包 → 增长机会合同；中文状态分层（事实/已观察/见闻/推断/假设），不把推测写成事实；事实真源，不写文章与视觉
 - 🚀 **[hekouwang-content-growth-engine-agent](https://github.com/huiyonghkw/hekouwang-content-growth-engine-agent)** — 会勇禾口王内容增长引擎 Agent：渠道数据、增长假设、研究验证、跨渠道生产与发布复盘
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — **公开**、证据驱动的 Harness 检查器：本地 / 暂存区 / 隔离 CI、Hook、安全门、契约、可观测性和真实宿主边界
 - 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — 跨会话记忆库（`MEMORY.md` 索引）
