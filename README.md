@@ -25,10 +25,10 @@ I’m turning the Harness behind that work into an open-source project, with che
 
 Four self-hosted tools I actively maintain — start with the problem you want to solve:
 
-| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🩺 [hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill) |
+| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🍜 [dianping-review-skill](https://github.com/huiyonghkw/dianping-review-skill) |
 | --- | --- | --- | --- |
-| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Bring the Claude desktop reading feel to Typora through a maintainable token-driven theme. | Inspect an Agent Harness with evidence-first checks across local, staging and CI — hooks, safety gates, task contracts and host boundaries. |
-| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [Product home →](https://huiyonghkw.github.io/hekouwang-harness-check-skill/) |
+| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Bring the Claude desktop reading feel to Typora through a maintainable token-driven theme. | Turn photos and voice notes into honest Dianping reviews — no invented details, built-in content checks and per-category must-haves. Python 3 only. |
+| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [Product home →](https://huiyonghkw.github.io/dianping-review-skill/) |
 
 More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
 

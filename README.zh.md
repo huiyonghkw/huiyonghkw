@@ -25,10 +25,10 @@
 
 我目前持续维护的四款自托管工具——按你要解决的问题进入：
 
-| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🩺 [hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill) |
+| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🍜 [dianping-review-skill](https://github.com/huiyonghkw/dianping-review-skill) |
 | --- | --- | --- | --- |
-| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | 一份色板同步 iTerm2、Ghostty、Warp、自带终端和命令行工具链；敢装也敢卸。 | 用可维护的设计 token，把 Claude 桌面端的阅读体验带进 Typora。 | 用证据优先的方法体检 Agent Harness：覆盖本地、暂存区与 CI，以及 Hook、安全门、任务契约和宿主边界。 |
-| [产品主页 →](https://huiyonghkw.github.io/CertHub/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh) | [查看仓库 →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-harness-check-skill/) |
+| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | 一份色板同步 iTerm2、Ghostty、Warp、自带终端和命令行工具链；敢装也敢卸。 | 用可维护的设计 token，把 Claude 桌面端的阅读体验带进 Typora。 | 照片加口述，写出真实不编造的大众点评评价和探店笔记；内置内容检查与品类必写项，只需 Python 3。 |
+| [产品主页 →](https://huiyonghkw.github.io/CertHub/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh) | [查看仓库 →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [产品主页 →](https://huiyonghkw.github.io/dianping-review-skill/) |
 
 更多开源工具：[CLAUDE.md 体检器](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill 体检器](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [环境体检器](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [演读 Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
 
