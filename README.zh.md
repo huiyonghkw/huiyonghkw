@@ -27,7 +27,7 @@
 
 | 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🍜 [dianping-review-skill](https://github.com/huiyonghkw/dianping-review-skill) |
 | --- | --- | --- | --- |
-| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | 一份色板同步 iTerm2、Ghostty、Warp、自带终端和命令行工具链；敢装也敢卸。 | 用可维护的设计 token，把 Claude 桌面端的阅读体验带进 Typora。 | 照片加口述，写出真实不编造的大众点评评价和探店笔记；内置内容检查与品类必写项，只需 Python 3。 |
+| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | 一份色板同步 iTerm2、Ghostty、Warp、自带终端和命令行工具链；敢装也敢卸。 | 为中文长文打磨的 Typora 浅色 + 深色主题，由设计 token 生成；免费 V2，另有 V1–V6 付费皮肤。 | 照片加口述，写出真实不编造的大众点评评价和探店笔记；内置内容检查与品类必写项，只需 Python 3。 |
 | [产品主页 →](https://huiyonghkw.github.io/CertHub/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh) | [查看仓库 →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [产品主页 →](https://huiyonghkw.github.io/dianping-review-skill/) |
 
 更多开源工具：[CLAUDE.md 体检器](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill 体检器](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [环境体检器](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [演读 Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
@@ -47,7 +47,7 @@
 ### 主题、终端与教程
 
 - 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — 见上方主推产品
-- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude 桌面阅读感 Typora 主题
+- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — 中文长文 Typora 主题（浅色 + 深色）
 - 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI 对照学
 - 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — 演读 DECK 流水线
 

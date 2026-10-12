@@ -27,7 +27,7 @@ Four self-hosted tools I actively maintain — start with the problem you want t
 
 | 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit) | 📝 [hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme) | 🍜 [dianping-review-skill](https://github.com/huiyonghkw/dianping-review-skill) |
 | --- | --- | --- | --- |
-| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Bring the Claude desktop reading feel to Typora through a maintainable token-driven theme. | Turn photos and voice notes into honest Dianping reviews — no invented details, built-in content checks and per-category must-haves. Python 3 only. |
+| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Light and dark Typora themes tuned for CJK long-form writing, generated from design tokens — free V2, paid V1–V6 skins. | Turn photos and voice notes into honest Dianping reviews — no invented details, built-in content checks and per-category must-haves. Python 3 only. |
 | [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [Product home →](https://huiyonghkw.github.io/dianping-review-skill/) |
 
 More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
@@ -47,7 +47,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 ### Themes, terminals & tutorials
 
 - 🖥️ **[hekouwang-terminal-kit](https://github.com/huiyonghkw/hekouwang-terminal-kit)** — featured product above
-- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — Claude-desktop reading experience in Typora
+- 📝 **[hekouwang-typora-theme](https://github.com/huiyonghkw/hekouwang-typora-theme)** — CJK long-form Typora theme (light + dark)
 - 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI side-by-side for muscle-memory transfer
 - 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — Yandu Deck slide pipeline
 
