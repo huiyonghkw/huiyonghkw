@@ -42,7 +42,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — `SKILL.md` quality gate before you publish a Skill
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — dev-env doctor with interactive uninstall picker
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — public stock data via akshare → neutral recap (compliance guardrails built in)
-- ✍️ **[hekouwang-writer-skill](https://github.com/huiyonghkw/hekouwang-writer-skill)** — Chinese document writer & reviser: structure-first, every number reconcilable, every policy claim sourced; revisions come with a change list you can roll back; five stdlib-only checkers
+- ✍️ **[hekouwang-writer-skill](https://github.com/huiyonghkw/hekouwang-writer-skill)** — Chinese document writer & reviser: structure-first, every number reconcilable, every policy claim sourced; revisions come with a change list you can roll back; five stdlib-only checkers. Article mode (merged from hekouwang-deai-skill) de-AIs WeChat articles and copy: diagnose first, then rewrite, facts and density preserved
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — public, evidence-driven Harness checks for local / staged / CI runs, Hooks, Safety Gates, Task Contracts, Episodes, observability and human-review boundaries; project-specific `.harness/` sources live in the reference content-agent repo
 
 ### Themes, terminals & tutorials
@@ -65,7 +65,6 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — WeChat article HTML layout, preview and publishing QA
 - 📰 **[hekouwang-toutiao-design-skill](https://github.com/huiyonghkw/hekouwang-toutiao-design-skill)** — Toutiao article HTML, 16:9 cover/image manifest and mobile publishing QA
 - 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — Xiaohongshu 1080×1440 group-card visual theme library
-- 🖋️ **[hekouwang-deai-skill](https://github.com/huiyonghkw/hekouwang-deai-skill)** — Chinese content humanizer: diagnose AI flavor first, then rewrite while preserving facts and information density
 
 ### Client work · custom transit · 🔒
 

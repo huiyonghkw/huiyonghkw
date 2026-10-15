@@ -42,7 +42,7 @@
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 发布 Skill 前的质量门
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 开发环境体检 + 交互式卸载
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — akshare 拉公开数据 → 中立复盘（内置金融合规护栏）
-- ✍️ **[hekouwang-writer-skill](https://github.com/huiyonghkw/hekouwang-writer-skill)** — 中文文档写作与改进：结构先行、数字可对账、政策有出处；改文档附改动清单可回退；五把纯标准库检查脚本
+- ✍️ **[hekouwang-writer-skill](https://github.com/huiyonghkw/hekouwang-writer-skill)** — 中文文档写作与改进：结构先行、数字可对账、政策有出处；改文档附改动清单可回退；五把纯标准库检查脚本。文章模式（原 hekouwang-deai-skill 并入）给公众号文章和文案去 AI 味：先诊断再改写，保留事实与信息密度
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — 已公开的证据驱动 Harness 检查器：覆盖本地 / 暂存区 / CI、Hook、Safety Gate、Task Contract、Episode、可观测性和人工复核边界；项目专属 `.harness/` 真源仍在参考内容仓库中
 
 ### 主题、终端与教程
@@ -65,7 +65,6 @@
 - 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — 公众号文章 HTML 排版、预览与发布验收
 - 📰 **[hekouwang-toutiao-design-skill](https://github.com/huiyonghkw/hekouwang-toutiao-design-skill)** — 头条文章 HTML、16:9 首图/配图清单与手机发布验收
 - 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — 小红书 1080×1440 组图视觉主题库
-- 🖋️ **[hekouwang-deai-skill](https://github.com/huiyonghkw/hekouwang-deai-skill)** — 中文去 AI 味：先诊断再改写，保留事实与信息密度
 
 ### 客户项目 · 定制客运 · 🔒
 
