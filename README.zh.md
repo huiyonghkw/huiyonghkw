@@ -30,7 +30,7 @@
 | 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | 一份色板同步 iTerm2、Ghostty、Warp、自带终端和命令行工具链；敢装也敢卸。 | 为中文长文打磨的 Typora 浅色 + 深色主题，由设计 token 生成；免费 V2，另有 V1–V6 付费皮肤。 | 照片加口述，写出真实不编造的大众点评评价和探店笔记；内置内容检查与品类必写项，只需 Python 3。 |
 | [产品主页 →](https://huiyonghkw.github.io/CertHub/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=zh) | [查看仓库 →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [产品主页 →](https://huiyonghkw.github.io/dianping-review-skill/) |
 
-更多开源工具：[CLAUDE.md 体检器](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill 体检器](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [环境体检器](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [演读 Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
+更多开源工具：[CLAUDE.md 体检器](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill 体检器](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [环境体检器](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [演读 Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) · [写作技能](https://github.com/huiyonghkw/hekouwang-writer-skill)
 
 ---
 
@@ -42,6 +42,7 @@
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — 发布 Skill 前的质量门
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — 开发环境体检 + 交互式卸载
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — akshare 拉公开数据 → 中立复盘（内置金融合规护栏）
+- ✍️ **[hekouwang-writer-skill](https://github.com/huiyonghkw/hekouwang-writer-skill)** — 中文文档写作与改进：结构先行、数字可对账、政策有出处；改文档附改动清单可回退；五把纯标准库检查脚本
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — 已公开的证据驱动 Harness 检查器：覆盖本地 / 暂存区 / CI、Hook、Safety Gate、Task Contract、Episode、可观测性和人工复核边界；项目专属 `.harness/` 真源仍在参考内容仓库中
 
 ### 主题、终端与教程

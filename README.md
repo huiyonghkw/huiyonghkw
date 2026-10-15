@@ -30,7 +30,7 @@ Four self-hosted tools I actively maintain — start with the problem you want t
 | Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Configure iTerm2, Ghostty, Warp, Terminal.app and the CLI toolchain from one palette — safe install and uninstall. | Light and dark Typora themes tuned for CJK long-form writing, generated from design tokens — free V2, paid V1–V6 skins. | Turn photos and voice notes into honest Dianping reviews — no invented details, built-in content checks and per-category must-haves. Python 3 only. |
 | [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-kit/index.html?lang=en) | [View repository →](https://github.com/huiyonghkw/hekouwang-typora-theme) | [Product home →](https://huiyonghkw.github.io/dianping-review-skill/) |
 
-More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
+More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) · [Writer](https://github.com/huiyonghkw/hekouwang-writer-skill)
 
 ---
 
@@ -42,6 +42,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 - 🧪 **[hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill)** — `SKILL.md` quality gate before you publish a Skill
 - 🧹 **[hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill)** — dev-env doctor with interactive uninstall picker
 - 📈 **[hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill)** — public stock data via akshare → neutral recap (compliance guardrails built in)
+- ✍️ **[hekouwang-writer-skill](https://github.com/huiyonghkw/hekouwang-writer-skill)** — Chinese document writer & reviser: structure-first, every number reconcilable, every policy claim sourced; revisions come with a change list you can roll back; five stdlib-only checkers
 - 🧭 **[hekouwang-harness-check-skill](https://github.com/huiyonghkw/hekouwang-harness-check-skill)** — public, evidence-driven Harness checks for local / staged / CI runs, Hooks, Safety Gates, Task Contracts, Episodes, observability and human-review boundaries; project-specific `.harness/` sources live in the reference content-agent repo
 
 ### Themes, terminals & tutorials
