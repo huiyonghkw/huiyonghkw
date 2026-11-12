@@ -107,16 +107,3 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huiyonghkw)
 
 - 📓 **CN platforms** — WeChat · Xiaohongshu · Toutiao · Bilibili: search **「会勇禾口王的AI笔记」**
-
----
-
-### Philosophy
-
-> The question isn't whether AI will replace you — it's how the people who use AI first will. I don't teach from slides; I ship from my own machine, then hand you the Skill.
-
-<details>
-<summary>About the name · 禾口王 → 程 · 会勇 → 会用</summary>
-
-「禾口王」 stacks into 「程」 (*chéng*, code / process); 「会勇」 sounds like 「会用」 ("knows how to use") — **会勇禾口王 = a programmer who genuinely knows how to use AI.**
-
-</details>
