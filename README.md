@@ -27,7 +27,7 @@ Four self-hosted tools I actively maintain — start with the problem you want t
 
 | 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-lite-skill](https://github.com/huiyonghkw/hekouwang-terminal-lite-skill) | 📝 [hekouwang-typora-theme-skill](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | ✍️ [hekouwang-writer-lite-skill](https://github.com/huiyonghkw/hekouwang-writer-lite-skill) |
 | --- | --- | --- | --- |
-| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Lite configures iTerm2 from one palette; the paid build extends it to Ghostty, Warp, Terminal.app and the CLI toolchain — safe install and uninstall. | Light and dark Typora themes tuned for CJK long-form writing, generated from design tokens — free V2, paid V1–V6 skins. | Chinese writing QC for documents and articles — structure first, de-AI rewrite, 4 stdlib-only checkers. Free under MIT-0; the full version with number ledger and evidence cards is paid on SkillHub and Alipay. |
+| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Lite configures iTerm2 from one palette; the paid build extends it to all six terminals and the CLI toolchain — safe install and uninstall. | Light and dark Typora themes tuned for CJK long-form writing, generated from design tokens — free V2, paid V1–V6 skins. | Chinese writing QC for documents and articles — structure first, de-AI rewrite, 4 stdlib-only checkers. Free under MIT-0; the full version with number ledger and evidence cards is paid on SkillHub and Alipay. |
 | [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-lite-skill/index.html?lang=en) | [Product home →](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/) | [Product home →](https://huiyonghkw.github.io/hekouwang-writer-lite-skill/) |
 
 More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
@@ -90,7 +90,7 @@ Source is private; descriptions only.
 
 - **Running *AI Notes by huiyonghkw*** — explain dense AI in plain talk, ship Skills readers can copy, record every workflow before I teach it
 - **Building the doctor suite** — lint `CLAUDE.md`, `SKILL.md`, and dev environments the way you'd lint code
-- **Shipping terminal + harness tooling** — one palette across four terminals; one evidence-driven Harness across Claude Code, Cursor, Codebuddy, and Codex
+- **Shipping terminal + harness tooling** — one palette across six terminals; one evidence-driven Harness across Claude Code, Cursor, Codebuddy, and Codex
 - **Writing on [hekouwang.pages.dev](https://hekouwang.pages.dev)** — master articles, channel editions, Yandu Decks and open recipes
 - **Designing the channel layer** — one researched article master, then native WeChat, Toutiao and Xiaohongshu editions with separate visual contracts
 
