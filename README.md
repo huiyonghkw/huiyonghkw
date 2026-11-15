@@ -54,31 +54,33 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 
 ### Content factory · 🔒 private
 
-🔒 = private (404 unless you have access). The content growth and Harness layer behind *AI Notes by huiyonghkw*.
+🔒 = private source (no public repo link). The content growth and Harness layer behind *AI Notes by huiyonghkw*.
 
-- 📦 **[hekouwang-content-master-skill](https://github.com/huiyonghkw/hekouwang-content-master-skill)** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
-- 🔎 **[hekouwang-ep-research-skill](https://github.com/huiyonghkw/hekouwang-ep-research-skill)** — EP fact & growth research: planning card → research package → opportunity contract; Chinese status layers (fact / observed / hearsay / inference / hypothesis) so speculation is never written as fact; fact source only — no article or visuals
-- 🚀 **[hekouwang-content-growth-engine-harness](https://github.com/huiyonghkw/hekouwang-content-growth-engine-harness)** — private Content Growth Engine Agent: channel data, growth hypotheses, research, multi-channel production and post-publication review
-- 🧠 **[hekouwang-content-memory](https://github.com/huiyonghkw/hekouwang-content-memory)** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
-- 📊 **[hekouwang-channel-analyzer](https://github.com/huiyonghkw/hekouwang-channel-analyzer)** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
-- 🧾 **[hekouwang-gzh-design-skill](https://github.com/huiyonghkw/hekouwang-gzh-design-skill)** — WeChat article HTML layout, preview and publishing QA
-- 📰 **[hekouwang-toutiao-design-skill](https://github.com/huiyonghkw/hekouwang-toutiao-design-skill)** — Toutiao article HTML, 16:9 cover/image manifest and mobile publishing QA
-- 🎨 **[hekouwang-xhs-theme-skill](https://github.com/huiyonghkw/hekouwang-xhs-theme-skill)** — Xiaohongshu 1080×1440 group-card visual theme library
+- 📦 **hekouwang-content-master-skill** — research-backed article master, master HTML, cross-platform content contracts and publishing copy
+- 🔎 **hekouwang-ep-research-skill** — EP fact & growth research: planning card → research package → opportunity contract; Chinese status layers (fact / observed / hearsay / inference / hypothesis) so speculation is never written as fact; fact source only — no article or visuals
+- 🚀 **hekouwang-content-growth-engine-harness** — private Content Growth Engine Agent: channel data, growth hypotheses, research, multi-channel production and post-publication review
+- 🧠 **hekouwang-content-memory** — cross-session memory: pitfalls / contracts / preferences (`MEMORY.md` index)
+- 📊 **hekouwang-channel-analyzer** — Xiaohongshu / Toutiao / WeChat analytics warehouse + Observable dashboard
+- 🧾 **hekouwang-gzh-design-skill** — WeChat article HTML layout, preview and publishing QA
+- 📰 **hekouwang-toutiao-design-skill** — Toutiao article HTML, 16:9 cover/image manifest and mobile publishing QA
+- 🎨 **hekouwang-xhs-theme-skill** — Xiaohongshu 1080×1440 group-card visual theme library
 
 ### Client work · custom transit · 🔒
 
-- 🚕 **[cczhaoche-harness](https://github.com/huiyonghkw/cczhaoche-harness)** — AI-collaboration harness for a ride-hailing SaaS (meta-layer only; business code on Aliyun Codeup)
-- 🧠 **[cczhaoche-memory](https://github.com/huiyonghkw/cczhaoche-memory)** — cross-session memory for the same client
-- 🎬 **[cczhaoche-product-anim-skill](https://github.com/huiyonghkw/cczhaoche-product-anim-skill)** — product intro animations → Aliyun OSS
-- 📱 **[cczhaoche-passenger-prototype-skill](https://github.com/huiyonghkw/cczhaoche-passenger-prototype-skill)** — passenger-app UI system (OKLCH + BEM)
-- 🛣️ **[ridehailing-mcp](https://github.com/huiyonghkw/ridehailing-mcp)** — ministry-level ride-hailing reporting MCP (CaaS)
+Source is private; descriptions only.
+
+- 🚕 **cczhaoche-harness** — AI-collaboration harness for a ride-hailing SaaS (meta-layer only; business code on Aliyun Codeup)
+- 🧠 **cczhaoche-memory** — cross-session memory for the same client
+- 🎬 **cczhaoche-product-anim-skill** — product intro animations → Aliyun OSS
+- 📱 **cczhaoche-passenger-prototype-skill** — passenger-app UI system (OKLCH + BEM)
+- 🛣️ **ridehailing-mcp** — ministry-level ride-hailing reporting MCP (CaaS)
 
 <details>
 <summary>Legacy · pre-AI era (gitlab-ci-docker 302★ · lnmp-docker 237★)</summary>
 
 - 🐳 **[gitlab-ci-docker](https://github.com/huiyonghkw/gitlab-ci-docker)** · **[lnmp-docker](https://github.com/huiyonghkw/lnmp-docker)** — Docker CI/CD stacks from my backend years
-- 🏪 **[zhanye](https://github.com/huiyonghkw/zhanye)** / **[zhanye-h5](https://github.com/huiyonghkw/zhanye-h5)** / **[zhanye-console](https://github.com/huiyonghkw/zhanye-console)** — 有信展业 client / H5 / admin
-- 🚗 **[api.chehubao.com](https://github.com/huiyonghkw/api.chehubao.com)** — Chehubao API
+- 🏪 **zhanye** / **zhanye-h5** / **zhanye-console** — 有信展业 client / H5 / admin
+- 🚗 **api.chehubao.com** — Chehubao API
 
 </details>
 
