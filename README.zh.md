@@ -27,7 +27,7 @@
 
 | 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-lite-skill](https://github.com/huiyonghkw/hekouwang-terminal-lite-skill) | 📝 [hekouwang-typora-theme-lite-skill](https://github.com/huiyonghkw/hekouwang-typora-theme-lite-skill) | ✍️ [hekouwang-writer-lite-skill](https://github.com/huiyonghkw/hekouwang-writer-lite-skill) |
 | --- | --- | --- | --- |
-| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | Lite 用一份色板配好 iTerm2；专业版扩展到六款终端与命令行工具链——敢装也敢卸。 | 中文长文 Typora 主题（免费 V2 · MIT）；专业版六套视觉走 SkillPay 买断。 | 中文写作质控：结构先行、去 AI 味、四个纯标准库检查器。免费 MIT-0；数字对账与证据卡在付费版（SkillHub / 支付宝）。 |
+| 把 SSL 证书从签发管到真正上线：续期、SSH 部署、手动打包与完整链校验。 | Lite 用一份色板配好 iTerm2；专业版扩展到六款终端与命令行工具链——敢装也敢卸。 | 中文长文 Typora 主题（免费 V2 · MIT）；专业版六套视觉 [SkillPay ¥9.9 买断](https://skillpay.alipay.com/shelf/product?productId=P0806000213890180&merchantCode=huiyonghkw)。 | 中文写作质控：结构先行、去 AI 味、四个纯标准库检查器。免费 MIT-0；数字对账与证据卡在付费版（SkillHub / 支付宝）。 |
 | [产品主页 →](https://huiyonghkw.github.io/CertHub/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-terminal-lite-skill/index.html?lang=zh) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-typora-theme-lite-skill/) | [产品主页 →](https://huiyonghkw.github.io/hekouwang-writer-lite-skill/) |
 
 更多开源工具：[CLAUDE.md 体检器](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill 体检器](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [环境体检器](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [演读 Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill) · [写作技能](https://github.com/huiyonghkw/hekouwang-writer-lite-skill)
