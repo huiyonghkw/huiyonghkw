@@ -25,10 +25,10 @@ I’m turning the Harness behind that work into an open-source project, with che
 
 Four self-hosted tools I actively maintain — start with the problem you want to solve:
 
-| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-lite-skill](https://github.com/huiyonghkw/hekouwang-terminal-lite-skill) | 📝 [hekouwang-typora-theme-skill](https://github.com/huiyonghkw/hekouwang-typora-theme-skill) | ✍️ [hekouwang-writer-lite-skill](https://github.com/huiyonghkw/hekouwang-writer-lite-skill) |
+| 🔐 [CertHub](https://github.com/huiyonghkw/CertHub) | 🖥️ [hekouwang-terminal-lite-skill](https://github.com/huiyonghkw/hekouwang-terminal-lite-skill) | 📝 [hekouwang-typora-theme-lite-skill](https://github.com/huiyonghkw/hekouwang-typora-theme-lite-skill) | ✍️ [hekouwang-writer-lite-skill](https://github.com/huiyonghkw/hekouwang-writer-lite-skill) |
 | --- | --- | --- | --- |
-| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Lite configures iTerm2 from one palette; the paid build extends it to all six terminals and the CLI toolchain — safe install and uninstall. | Light and dark Typora themes tuned for CJK long-form writing, generated from design tokens — free V2, paid V1–V6 skins. | Chinese writing QC for documents and articles — structure first, de-AI rewrite, 4 stdlib-only checkers. Free under MIT-0; the full version with number ledger and evidence cards is paid on SkillHub and Alipay. |
-| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-lite-skill/index.html?lang=en) | [Product home →](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/) | [Product home →](https://huiyonghkw.github.io/hekouwang-writer-lite-skill/) |
+| Take SSL certificates from issuance to production: renew, SSH deploy, manual ZIP, full-chain verification. | Lite configures iTerm2 from one palette; the paid build extends it to all six terminals and the CLI toolchain — safe install and uninstall. | CJK long-form Typora theme (free V2 · MIT); paid six-skin pack via SkillPay. | Chinese writing QC for documents and articles — structure first, de-AI rewrite, 4 stdlib-only checkers. Free under MIT-0; the full version with number ledger and evidence cards is paid on SkillHub and Alipay. |
+| [Product home →](https://huiyonghkw.github.io/CertHub/) | [Product home →](https://huiyonghkw.github.io/hekouwang-terminal-lite-skill/index.html?lang=en) | [Product home →](https://huiyonghkw.github.io/hekouwang-typora-theme-lite-skill/) | [Product home →](https://huiyonghkw.github.io/hekouwang-writer-lite-skill/) |
 
 More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekouwang-claude-md-doctor-skill) · [Skill Doctor](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) · [Environment Doctor](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) · [Yandu Deck](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)
 
@@ -48,7 +48,7 @@ More open-source tooling: [CLAUDE.md Doctor](https://github.com/huiyonghkw/hekou
 ### Themes, terminals & tutorials
 
 - 🖥️ **[hekouwang-terminal-lite-skill](https://github.com/huiyonghkw/hekouwang-terminal-lite-skill)** — featured product above
-- 📝 **[hekouwang-typora-theme-skill](https://github.com/huiyonghkw/hekouwang-typora-theme-skill)** — CJK long-form Typora theme (light + dark)
+- 📝 **[hekouwang-typora-theme-lite-skill](https://github.com/huiyonghkw/hekouwang-typora-theme-lite-skill)** — CJK long-form Typora theme (free V2; [site](https://huiyonghkw.github.io/hekouwang-typora-theme-lite-skill/))
 - 🐍 **[hekouwang-laravel-to-fastapi](https://github.com/huiyonghkw/hekouwang-laravel-to-fastapi)** — Laravel ↔ FastAPI side-by-side for muscle-memory transfer
 - 🎬 **[hekouwang-yandu-deck-skill](https://github.com/huiyonghkw/hekouwang-yandu-deck-skill)** — Yandu Deck slide pipeline
 
